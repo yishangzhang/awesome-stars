@@ -16,6 +16,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Nunjucks](#nunjucks)
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
@@ -97,6 +98,10 @@
 
 - [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 - [prodramp/DeepWorks](https://github.com/prodramp/DeepWorks) - A collection of Deep Learning projects  and resources
+
+## Nunjucks 
+
+- [ksylor/ohshitgit](https://github.com/ksylor/ohshitgit) - The official home of Oh Shit, Git!?!
 
 ## Others 
 
