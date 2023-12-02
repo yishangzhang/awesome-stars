@@ -18,6 +18,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
+- [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -44,6 +45,7 @@
 
 ## C++ 
 
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C++11
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
 - [youngyangyang04/Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP) - A tiny KV storage based on skiplist written in C++ language|  使用C++开发，基于跳表实现的轻量级键值数据库🔥🔥 🚀
@@ -91,6 +93,7 @@
 
 ## JavaScript 
 
+- [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 
@@ -105,7 +108,6 @@
 
 ## Others 
 
-- [NVIDIA/nvtrust](https://github.com/NVIDIA/nvtrust) - Ancillary open source software to support confidential computing on NVIDIA GPUs
 - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [TechBastic/roadmaps](https://github.com/TechBastic/roadmaps) - A curated list of resources to start your developer journey.
@@ -133,10 +135,15 @@
 - [csfive/HUST-CPU](https://github.com/csfive/HUST-CPU) - 🚧
 - [0voice/computer_expert_paper](https://github.com/0voice/computer_expert_paper) - 1000+份计算机paper，卡耐基梅隆大学，哈佛，斯坦福，芝加哥大学，MIT，facebook，google，微软，Amazon，twitter等大牛一作，持续更新中
 
+## PHP 
+
+- [ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF) - 【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！
+
 ## Python 
 
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
+- [NVIDIA/nvtrust](https://github.com/NVIDIA/nvtrust) - Ancillary open source software to support confidential computing on NVIDIA GPUs
 - [tarun27sh/gdb_graphs](https://github.com/tarun27sh/gdb_graphs) - To visualize function call flow for a C/C++ program using gdb and python
-- [ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF) - 【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [fengyuanyu1/gdb-dashboard](https://github.com/fengyuanyu1/gdb-dashboard) - Modular visual interface for GDB in Python
 
