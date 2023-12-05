@@ -111,6 +111,7 @@
 
 ## Others 
 
+- [vimode/Advent-Calendars-For-Developers](https://github.com/vimode/Advent-Calendars-For-Developers) - Advent Calendars for Web Developers
 - [gh0stkey/Binary-Learning](https://github.com/gh0stkey/Binary-Learning) - 二进制安全相关的学习笔记，感谢滴水逆向的所有老师辛苦教学。
 - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -166,6 +167,7 @@
 
 ## Shell 
 
+- [kagurazakakotori/ubmp-cn](https://github.com/kagurazakakotori/ubmp-cn) - フルスクラッチで作る!UEFIベアメタルプログラミング 中文版
 - [Codesire-Deng/lazywsl](https://github.com/Codesire-Deng/lazywsl) - Nuclear button to install WSL C++ dev-environment
 - [microsoft/bash-for-beginners](https://github.com/microsoft/bash-for-beginners) - Sample code for Bash for Beginners course
 
