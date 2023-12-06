@@ -23,6 +23,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
+- [TypeScript](#typescript)
 
 ## C 
 
@@ -46,6 +47,8 @@
 
 ## C++ 
 
+- [X-czh/smart_ptr](https://github.com/X-czh/smart_ptr) - My own implementation of C++'s smart pointers
+- [lballabio/QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C++ library
 - [zcbenz/BPlusTree](https://github.com/zcbenz/BPlusTree) - B+ tree implementation which stores data in file
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C++11
@@ -84,6 +87,7 @@
 
 ## HTML 
 
+- [wangzhe3224/quant-roadmap](https://github.com/wangzhe3224/quant-roadmap) - 进入矿工（Quant）世界的路线图
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [zhwei820/learn.lianglianglee.com](https://github.com/zhwei820/learn.lianglianglee.com) - 
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -111,6 +115,8 @@
 
 ## Others 
 
+- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引
+- [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
 - [vimode/Advent-Calendars-For-Developers](https://github.com/vimode/Advent-Calendars-For-Developers) - Advent Calendars for Web Developers
 - [gh0stkey/Binary-Learning](https://github.com/gh0stkey/Binary-Learning) - 二进制安全相关的学习笔记，感谢滴水逆向的所有老师辛苦教学。
 - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
@@ -170,6 +176,10 @@
 - [kagurazakakotori/ubmp-cn](https://github.com/kagurazakakotori/ubmp-cn) - フルスクラッチで作る!UEFIベアメタルプログラミング 中文版
 - [Codesire-Deng/lazywsl](https://github.com/Codesire-Deng/lazywsl) - Nuclear button to install WSL C++ dev-environment
 - [microsoft/bash-for-beginners](https://github.com/microsoft/bash-for-beginners) - Sample code for Bash for Beginners course
+
+## TypeScript 
+
+- [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 
 
 ## License
