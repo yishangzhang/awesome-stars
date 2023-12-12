@@ -117,6 +117,8 @@
 
 ## Others 
 
+- [leesper/ProgrammersLevelUp](https://github.com/leesper/ProgrammersLevelUp) - 用20年时间跟着皓叔刷“程序员练级攻略”
+- [LearnGolang/LearnGolang](https://github.com/LearnGolang/LearnGolang) - 《Golang学习资源大全-只有Go语言才能改变世界》Only Golang Can Change The World.
 - [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
 - [vimode/Advent-Calendars-For-Developers](https://github.com/vimode/Advent-Calendars-For-Developers) - Advent Calendars for Web Developers
