@@ -274,6 +274,7 @@
 
 ## others 
 
+- [arjun024/memalloc](https://github.com/arjun024/memalloc) - A simple memory allocator - Memory allocation 101
 - [leesper/ProgrammersLevelUp](https://github.com/leesper/ProgrammersLevelUp) - 用20年时间跟着皓叔刷“程序员练级攻略”
 - [terobox/ChatGPT-API-Faucet](https://github.com/terobox/ChatGPT-API-Faucet) - AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品
 - [lballabio/QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C++ library
