@@ -24,6 +24,7 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Solidity](#solidity)
+- [Standard ML](#standard-ml)
 - [TypeScript](#typescript)
 
 ## C 
@@ -107,6 +108,7 @@
 
 ## Java 
 
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 - [XUranus/lightsocks-java](https://github.com/XUranus/lightsocks-java) - lite sock5 protocal based network proxy tool
 
 ## JavaScript 
@@ -130,6 +132,7 @@
 
 ## Others 
 
+- [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
@@ -200,6 +203,11 @@
 ## Solidity 
 
 - [Project-DARC/DARC](https://github.com/Project-DARC/DARC) - Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.
+
+## Standard ML 
+
+- [JonnyKong/Coursera-ProgrammingLanguagesUW](https://github.com/JonnyKong/Coursera-ProgrammingLanguagesUW) - Coursera: Programming Languages, Univ. of Washington
+- [doct0rX/ProgrammingLanguages](https://github.com/doct0rX/ProgrammingLanguages) - Programming Languages (University of Washington)
 
 ## TypeScript 
 
