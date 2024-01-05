@@ -29,6 +29,7 @@
 
 ## C 
 
+- [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
 - [oldawei/show_me_the_code](https://github.com/oldawei/show_me_the_code) - Talk is cheap. Show me the code.
 - [arjun024/memalloc](https://github.com/arjun024/memalloc) - A simple memory allocator - Memory allocation 101
 - [Jeanhwea/xv6-course](https://github.com/Jeanhwea/xv6-course) - xv6 操作系统实践
