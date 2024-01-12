@@ -121,7 +121,7 @@
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [HiganFish/Notes-HighPerformanceLinuxServerProgramming](https://github.com/HiganFish/Notes-HighPerformanceLinuxServerProgramming) - Linux高性能服务器编程(作者 游双) 读书笔记和Demo
 - [tarun27sh/gdb_graphs](https://github.com/tarun27sh/gdb_graphs) - To visualize function call flow for a C/C++ program using gdb and python
-- [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++ 高频面试问题
+- [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++ interview questions
 
 ## chatgpt 
 
@@ -146,7 +146,7 @@
 - [tarun27sh/gdb_graphs](https://github.com/tarun27sh/gdb_graphs) - To visualize function call flow for a C/C++ program using gdb and python
 - [jobbole/awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) - C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
-- [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++ 高频面试问题
+- [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++ interview questions
 - [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus) - 课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB
 
 ## data-science 
@@ -279,7 +279,7 @@
 
 - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 - [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
-- [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++ 高频面试问题
+- [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++ interview questions
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 
 ## machine-learning 
