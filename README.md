@@ -160,7 +160,7 @@
 - [jobbole/awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) - C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。
 - [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
-- [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++ 高频面试问题
+- [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++ interview questions
 - [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh) - 手撸解释器教程《Crafting Interpreters》中文翻译
 - [slowmist/Knowledge-Base](https://github.com/slowmist/Knowledge-Base) - Knowledge Base 慢雾安全团队知识库
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
