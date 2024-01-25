@@ -29,6 +29,7 @@
 
 ## C 
 
+- [eyalroz/printf](https://github.com/eyalroz/printf) - Tiny, fast(ish), self-contained, fully loaded printf, sprinf etc. implementation; particularly useful in embedded systems.
 - [kvmtool/kvmtool](https://github.com/kvmtool/kvmtool) - Stand-alone Native Linux KVM Tool repo
 - [Liu-YT/IO-Multiplexing](https://github.com/Liu-YT/IO-Multiplexing) - select、poll、epoll
 - [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
