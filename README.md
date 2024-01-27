@@ -118,7 +118,6 @@
 
 ## JavaScript 
 
-- [apachecn/uiuc-cs241-notes-zh](https://github.com/apachecn/uiuc-cs241-notes-zh) - :book: 【译】UIUC CS241 系统编程中文讲义
 - [SPK80/ChromeTools](https://github.com/SPK80/ChromeTools) - Google Chrome Extention Template
 - [SchneeHertz/chat-xiuliu](https://github.com/SchneeHertz/chat-xiuliu) - ChatGPT Client with Function Calling | ChatGPT客户端，支持联网，IO操作和执行代码
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
@@ -204,6 +203,7 @@
 
 ## Shell 
 
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [kagurazakakotori/ubmp-cn](https://github.com/kagurazakakotori/ubmp-cn) - フルスクラッチで作る!UEFIベアメタルプログラミング 中文版
 - [Codesire-Deng/lazywsl](https://github.com/Codesire-Deng/lazywsl) - Nuclear button to install WSL C++ dev-environment
 - [microsoft/bash-for-beginners](https://github.com/microsoft/bash-for-beginners) - Sample code for Bash for Beginners course
