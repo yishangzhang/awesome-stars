@@ -84,6 +84,7 @@
 
 ## algorithm 
 
+- [SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) - 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码
 - [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C++11
 
 ## android 
