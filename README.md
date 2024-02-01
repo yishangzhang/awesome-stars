@@ -44,7 +44,6 @@
 - [yuan-xy/Linux-0.11](https://github.com/yuan-xy/Linux-0.11) - The old Linux kernel source ver 0.11 which has been tested under modern Linux,  Mac OSX and Windows.
 - [Wangzhike/HIT-Linux-0.11](https://github.com/Wangzhike/HIT-Linux-0.11) - 网易云课堂选的操作系统课实验的代码及相关记录
 - [StevenBaby/onix](https://github.com/StevenBaby/onix) - Onix - 操作系统实现
-- [intel/tdx-tools](https://github.com/intel/tdx-tools) - Cloud Stack and Solutions for Intel TDX (Trust Domain Extension)
 - [yifengyou/learn-kvm](https://github.com/yifengyou/learn-kvm) - Qemu  KVM(Kernel Virtual Machine)学习笔记
 - [yifengyou/os-elephant](https://github.com/yifengyou/os-elephant) - 《操作系统真象还原》源码及学习笔记（os-elephant）还原真相
 - [Rohde-Schwarz/TrustedGRUB2](https://github.com/Rohde-Schwarz/TrustedGRUB2) - DEPRECATED TPM enabled GRUB2 Bootloader
@@ -187,6 +186,7 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [NVIDIA/nvtrust](https://github.com/NVIDIA/nvtrust) - Ancillary open source software to support confidential computing on NVIDIA GPUs
 - [tarun27sh/gdb_graphs](https://github.com/tarun27sh/gdb_graphs) - To visualize function call flow for a C/C++ program using gdb and python
+- [intel/tdx-tools](https://github.com/intel/tdx-tools) - Cloud Stack and Solutions for Intel TDX (Trust Domain Extension)
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [fengyuanyu1/gdb-dashboard](https://github.com/fengyuanyu1/gdb-dashboard) - Modular visual interface for GDB in Python
 
