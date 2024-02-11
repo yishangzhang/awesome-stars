@@ -24,7 +24,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
-- [Solidity](#solidity)
 - [Standard ML](#standard-ml)
 - [TypeScript](#typescript)
 
@@ -216,10 +215,6 @@
 - [kagurazakakotori/ubmp-cn](https://github.com/kagurazakakotori/ubmp-cn) - フルスクラッチで作る!UEFIベアメタルプログラミング 中文版
 - [Codesire-Deng/lazywsl](https://github.com/Codesire-Deng/lazywsl) - Nuclear button to install WSL C++ dev-environment
 - [microsoft/bash-for-beginners](https://github.com/microsoft/bash-for-beginners) - Sample code for Bash for Beginners course
-
-## Solidity 
-
-- [Project-DARC/DARC](https://github.com/Project-DARC/DARC) - Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.
 
 ## Standard ML 
 
