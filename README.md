@@ -17,6 +17,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
@@ -135,6 +136,10 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 - [prodramp/DeepWorks](https://github.com/prodramp/DeepWorks) - A collection of Deep Learning projects  and resources
+
+## Markdown 
+
+- [TonyCrane/note](https://github.com/TonyCrane/note) - TonyCrane's Public Notebook
 
 ## Nunjucks 
 
