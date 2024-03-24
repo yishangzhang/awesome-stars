@@ -10,6 +10,7 @@
 - [CMake](#cmake)
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
@@ -90,6 +91,10 @@
 - [xueyong-q/docker-java](https://github.com/xueyong-q/docker-java) - 基于 Docker 的 JAVA 开发环境
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [tianocore/containers](https://github.com/tianocore/containers) - Repository to maintain and manage edk2 containers
+
+## EJS 
+
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
 ## Emacs Lisp 
 
