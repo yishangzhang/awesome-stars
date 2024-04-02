@@ -57,6 +57,7 @@
 - [maven](#maven)
 - [microsoft](#microsoft)
 - [natural-language-processing](#natural-language-processing)
+- [neovim](#neovim)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
 - [npm](#npm)
@@ -172,6 +173,7 @@
 
 ## cpp 
 
+- [FengJungle/DesignPattern](https://github.com/FengJungle/DesignPattern) - Design pattern demo code
 - [X-czh/smart_ptr](https://github.com/X-czh/smart_ptr) - My own implementation of C++'s smart pointers
 - [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引
 - [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C++11
@@ -368,6 +370,10 @@
 
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 
+## neovim 
+
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
 ## nextjs 
 
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
@@ -393,6 +399,7 @@
 
 ## others 
 
+- [zq-david-wang/linux-tools](https://github.com/zq-david-wang/linux-tools) - Sets of lightweight tools utilizing linux kernel interfaces, e.g. perf, ebpf and etc.
 - [lutao2021/BrightDreamer](https://github.com/lutao2021/BrightDreamer) - BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis
 - [intel/tdx-linux](https://github.com/intel/tdx-linux) - 
 - [TonyCrane/note](https://github.com/TonyCrane/note) - TonyCrane's Public Notebook
