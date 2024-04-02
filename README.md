@@ -58,6 +58,7 @@
 
 ## C++ 
 
+- [FengJungle/DesignPattern](https://github.com/FengJungle/DesignPattern) - Design pattern demo code
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [oceanbase/miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational)
@@ -109,6 +110,7 @@
 
 ## HTML 
 
+- [zq-david-wang/linux-tools](https://github.com/zq-david-wang/linux-tools) - Sets of lightweight tools utilizing linux kernel interfaces, e.g. perf, ebpf and etc.
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [Web3-Club/Web3wiki-Website](https://github.com/Web3-Club/Web3wiki-Website) - 📖中文互联网第一个Web3相关知识的百科站点 ｜@Web3-Club
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
