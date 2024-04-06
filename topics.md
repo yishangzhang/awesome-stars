@@ -404,7 +404,7 @@
 ## others 
 
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
-- [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - 
+- [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
 - [zq-david-wang/linux-tools](https://github.com/zq-david-wang/linux-tools) - Sets of lightweight tools utilizing linux kernel interfaces, e.g. perf, ebpf and etc.
 - [lutao2021/BrightDreamer](https://github.com/lutao2021/BrightDreamer) - BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis
 - [intel/tdx-linux](https://github.com/intel/tdx-linux) - 
