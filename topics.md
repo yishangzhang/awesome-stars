@@ -152,6 +152,7 @@
 
 ## chatgpt 
 
+- [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
@@ -403,8 +404,8 @@
 
 ## others 
 
+- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
-- [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
 - [zq-david-wang/linux-tools](https://github.com/zq-david-wang/linux-tools) - Sets of lightweight tools utilizing linux kernel interfaces, e.g. perf, ebpf and etc.
 - [lutao2021/BrightDreamer](https://github.com/lutao2021/BrightDreamer) - BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis
 - [intel/tdx-linux](https://github.com/intel/tdx-linux) - 
