@@ -31,6 +31,7 @@
 
 ## C 
 
+- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [rprata/linux-device-driver-tutorial](https://github.com/rprata/linux-device-driver-tutorial) - This tutorial discusses technical issues to develop your own linux device driver. The aim of this tutorial is to provide, easy and practical examples so that everybody can understand the concepts in a
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 - [eyalroz/printf](https://github.com/eyalroz/printf) - Tiny, fast(ish), self-contained, fully loaded printf, sprinf etc. implementation; particularly useful in embedded systems.
@@ -125,7 +126,7 @@
 
 ## Handlebars 
 
-- [sunface/beat-ai](https://github.com/sunface/beat-ai) - 专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [0xx0-ai/beat-ai](https://github.com/0xx0-ai/beat-ai) - &lt;&lt;Beat AI&gt;&gt; 专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 
 ## Java 
 
@@ -226,6 +227,8 @@
 
 ## Rust 
 
+- [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
+- [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing library for Rust, with real-time tui support.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [yiransheng/wontun](https://github.com/yiransheng/wontun) - write your own vpn
