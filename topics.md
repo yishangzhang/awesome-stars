@@ -59,6 +59,7 @@
 - [microsoft](#microsoft)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
+- [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
 - [nosql](#nosql)
@@ -89,6 +90,7 @@
 
 ## ai 
 
+- [0xx0-ai/beat-ai](https://github.com/0xx0-ai/beat-ai) - 《Beat AI》又名《零生万物》 ，是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
@@ -120,7 +122,6 @@
 ## awesome 
 
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [0xx0-ai/beat-ai](https://github.com/0xx0-ai/beat-ai) - 《Beat AI》又名《零生万物》 ，是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
@@ -388,6 +389,10 @@
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
+## neural-network 
+
+- [0xx0-ai/beat-ai](https://github.com/0xx0-ai/beat-ai) - 《Beat AI》又名《零生万物》 ，是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+
 ## nextjs 
 
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
@@ -568,7 +573,6 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [0xx0-ai/beat-ai](https://github.com/0xx0-ai/beat-ai) - 《Beat AI》又名《零生万物》 ，是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 - [occlum/occlum](https://github.com/occlum/occlum) - Occlum is a memory-safe, multi-process library OS for Intel SGX
 - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
