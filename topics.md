@@ -124,6 +124,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [trevor-vincent/awesome-high-performance-computing](https://github.com/trevor-vincent/awesome-high-performance-computing) - A curated list of awesome high performance computing resources
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
 ## awesome-list 
@@ -131,6 +132,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [trevor-vincent/awesome-high-performance-computing](https://github.com/trevor-vincent/awesome-high-performance-computing) - A curated list of awesome high performance computing resources
 - [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) - 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work
 
 ## bash 
@@ -165,7 +167,7 @@
 
 ## cli 
 
-- [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing library for Rust, with real-time tui support.
+- [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing framework for Rust, with real-time tui support.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -475,7 +477,6 @@
 - [Camio1945/linux-0.11-quickstart-debug-bochs2.7](https://github.com/Camio1945/linux-0.11-quickstart-debug-bochs2.7) - 用 Bochs 2.7 的 GUI 窗口调试 Linux 0.11 源码。（非原创）
 - [tjumcw/6.824](https://github.com/tjumcw/6.824) - MIT 6.824 distributed system C++Version
 - [FunctionDou/STL](https://github.com/FunctionDou/STL) - STL源码分析
-- [trevor-vincent/awesome-high-performance-computing](https://github.com/trevor-vincent/awesome-high-performance-computing) - A curated list of awesome high performance computing resources
 - [Codesire-Deng/lazywsl](https://github.com/Codesire-Deng/lazywsl) - Nuclear button to install WSL C++ dev-environment
 - [zhwei820/learn.lianglianglee.com](https://github.com/zhwei820/learn.lianglianglee.com) - 
 - [balloonwj/CppGuide](https://github.com/balloonwj/CppGuide) - C/C++学习，后端开发进阶指南。
@@ -569,7 +570,7 @@
 
 - [fucking-translation/blog](https://github.com/fucking-translation/blog) - 博客翻译
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
-- [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing library for Rust, with real-time tui support.
+- [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing framework for Rust, with real-time tui support.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
