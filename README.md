@@ -229,7 +229,7 @@
 
 - [fucking-translation/blog](https://github.com/fucking-translation/blog) - 博客翻译
 - [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
-- [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing library for Rust, with real-time tui support.
+- [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing framework for Rust, with real-time tui support.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [yiransheng/wontun](https://github.com/yiransheng/wontun) - write your own vpn
