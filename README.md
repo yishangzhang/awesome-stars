@@ -9,6 +9,7 @@
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
+- [Cuda](#cuda)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
 - [Emacs Lisp](#emacs-lisp)
@@ -87,6 +88,10 @@
 ## CSS 
 
 - [tianocore-training/Tianocore_Training_Contents](https://github.com/tianocore-training/Tianocore_Training_Contents) - Table of Contents and suggested course Schedule for UEFI / Edk II training
+
+## Cuda 
+
+- [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 
 ## Dockerfile 
 
