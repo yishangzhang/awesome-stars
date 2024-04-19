@@ -87,6 +87,7 @@
 
 ## CSS 
 
+- [cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
 - [tianocore-training/Tianocore_Training_Contents](https://github.com/tianocore-training/Tianocore_Training_Contents) - Table of Contents and suggested course Schedule for UEFI / Edk II training
 
 ## Cuda 
@@ -118,6 +119,7 @@
 
 ## HTML 
 
+- [H-Wakanda/css-animation-101-cn](https://github.com/H-Wakanda/css-animation-101-cn) - 学习如何为你的 Web 程序添加动效
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [zq-david-wang/linux-tools](https://github.com/zq-david-wang/linux-tools) - Sets of lightweight tools utilizing linux kernel interfaces, e.g. perf, ebpf and etc.
@@ -219,6 +221,7 @@
 
 ## Python 
 
+- [grbnb/epicgames-claimer](https://github.com/grbnb/epicgames-claimer) - epic
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
 - [lutao2021/BrightDreamer](https://github.com/lutao2021/BrightDreamer) - BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 7 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
