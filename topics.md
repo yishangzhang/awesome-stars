@@ -69,6 +69,7 @@
 - [open-source](#open-source)
 - [operating-system](#operating-system)
 - [others](#others)
+- [postgresql](#postgresql)
 - [programming](#programming)
 - [pwa](#pwa)
 - [python](#python)
@@ -81,6 +82,9 @@
 - [rust](#rust)
 - [security](#security)
 - [shell](#shell)
+- [sql](#sql)
+- [sql-server](#sql-server)
+- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -538,6 +542,10 @@
 - [CN-GuoZiyang/Moonix](https://github.com/CN-GuoZiyang/Moonix) - Yet another RISC-V OS in C
 - [Minep/lunaix-os](https://github.com/Minep/lunaix-os) - A simple (yet naive), POSIX-compliant (hopefully!) operating system from scratch!
 
+## postgresql 
+
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+
 ## programming 
 
 - [chinesehuazhou/python-whydo](https://github.com/chinesehuazhou/python-whydo) - Explore Python's charms by asking WHY questions
@@ -576,6 +584,7 @@
 
 ## react 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 
 ## reactjs 
@@ -611,6 +620,18 @@
 ## shell 
 
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+
+## sql 
+
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+
+## sql-server 
+
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+
+## sqlite 
+
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 
 ## statistics 
 
