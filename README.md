@@ -244,6 +244,7 @@
 
 ## Rust 
 
+- [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
 - [harlanc/xiu](https://github.com/harlanc/xiu) - A simple,high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀
 - [fucking-translation/blog](https://github.com/fucking-translation/blog) - 博客翻译
 - [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
