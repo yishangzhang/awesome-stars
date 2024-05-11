@@ -76,6 +76,7 @@
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
+- [quantitative-finance](#quantitative-finance)
 - [r](#r)
 - [react](#react)
 - [reactjs](#reactjs)
@@ -498,7 +499,6 @@
 - [arjun024/memalloc](https://github.com/arjun024/memalloc) - A simple memory allocator - Memory allocation 101
 - [leesper/ProgrammersLevelUp](https://github.com/leesper/ProgrammersLevelUp) - 用20年时间跟着皓叔刷“程序员练级攻略”
 - [terobox/ChatGPT-API-Faucet](https://github.com/terobox/ChatGPT-API-Faucet) - AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品
-- [lballabio/QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C++ library
 - [wangzhe3224/quant-roadmap](https://github.com/wangzhe3224/quant-roadmap) - 进入矿工（Quant）世界的路线图
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
@@ -593,6 +593,10 @@
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [prodramp/DeepWorks](https://github.com/prodramp/DeepWorks) - A collection of Deep Learning projects  and resources
+
+## quantitative-finance 
+
+- [lballabio/QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C++ library
 
 ## r 
 
