@@ -166,6 +166,7 @@
 
 ## Markdown 
 
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [TonyCrane/note](https://github.com/TonyCrane/note) - TonyCrane's Public Notebook
 
 ## Nunjucks 
@@ -227,6 +228,7 @@
 
 ## Python 
 
+- [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用
 - [grbnb/epicgames-claimer](https://github.com/grbnb/epicgames-claimer) - epic
@@ -247,6 +249,7 @@
 
 ## Rust 
 
+- [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
 - [stijnh/rust-calculator](https://github.com/stijnh/rust-calculator) - Command-line based calculator written in Rust
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
