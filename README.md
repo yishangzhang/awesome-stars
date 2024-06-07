@@ -249,6 +249,7 @@
 
 ## Rust 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
 - [stijnh/rust-calculator](https://github.com/stijnh/rust-calculator) - Command-line based calculator written in Rust
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
