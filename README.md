@@ -251,6 +251,7 @@
 
 ## Rust 
 
+- [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
 - [stijnh/rust-calculator](https://github.com/stijnh/rust-calculator) - Command-line based calculator written in Rust
