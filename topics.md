@@ -33,6 +33,7 @@
 - [documentation](#documentation)
 - [dotnet](#dotnet)
 - [education](#education)
+- [emacs](#emacs)
 - [ethereum](#ethereum)
 - [finance](#finance)
 - [framework](#framework)
@@ -270,6 +271,10 @@
 - [oceanbase/miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
+## emacs 
+
+- [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
+
 ## ethereum 
 
 - [Web3-Club/Web3wiki-Website](https://github.com/Web3-Club/Web3wiki-Website) - 📖中文互联网第一个Web3相关知识的百科站点 ｜@Web3-Club
@@ -474,6 +479,7 @@
 
 ## others 
 
+- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [zjp-CN/tlborm](https://github.com/zjp-CN/tlborm) - The Little Book of Rust Macros (Updated Version) 中文翻译版
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
@@ -642,6 +648,7 @@
 
 ## rust 
 
+- [cuppar/rtd](https://github.com/cuppar/rtd) - Learn Rust by 500 lines code
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
