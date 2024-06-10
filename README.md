@@ -109,6 +109,7 @@
 
 ## Emacs Lisp 
 
+- [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
 - [yuyichao/cs-doc](https://github.com/yuyichao/cs-doc) - 
 
 ## Go 
@@ -176,6 +177,7 @@
 
 ## Others 
 
+- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) - :books: 极客时间电子书
 - [unpluggedcoder/awesome-rust-tools](https://github.com/unpluggedcoder/awesome-rust-tools) - Harness the power of Rust. Those fast productivity tools based on Rust.
 - [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
@@ -251,6 +253,7 @@
 
 ## Rust 
 
+- [cuppar/rtd](https://github.com/cuppar/rtd) - Learn Rust by 500 lines code
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
