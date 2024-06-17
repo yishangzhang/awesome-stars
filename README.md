@@ -305,7 +305,7 @@
 
 ## XML 
 
-- [redleafnew/Chinese-STD-GB-T-7714-related-csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl) - GB/T 7714相关的csl以及Zotero使用技巧及教程。
+- [zotero-chinese/Chinese-STD-GB-T-7714-related-csl](https://github.com/zotero-chinese/Chinese-STD-GB-T-7714-related-csl) - GB/T 7714相关的csl以及Zotero使用技巧及教程。
 
 
 ## License
