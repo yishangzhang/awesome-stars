@@ -305,7 +305,7 @@
 
 ## XML 
 
-- [zotero-chinese/styles](https://github.com/zotero-chinese/styles) - GB/T 7714相关的csl以及Zotero使用技巧及教程。
+- [zotero-chinese/styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式
 
 
 ## License
