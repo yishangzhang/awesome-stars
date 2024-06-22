@@ -245,7 +245,6 @@
 - [NVIDIA/nvtrust](https://github.com/NVIDIA/nvtrust) - Ancillary open source software to support confidential computing on NVIDIA GPUs
 - [tarun27sh/gdb_graphs](https://github.com/tarun27sh/gdb_graphs) - To visualize function call flow for a C/C++ program using gdb and python
 - [hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) - Linux 内核揭秘
-- [intel/tdx-tools](https://github.com/intel/tdx-tools) - Cloud Stack and Solutions for Intel TDX (Trust Domain Extension)
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [fengyuanyu1/gdb-dashboard](https://github.com/fengyuanyu1/gdb-dashboard) - Modular visual interface for GDB in Python
 
