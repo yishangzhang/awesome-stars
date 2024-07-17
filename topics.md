@@ -165,7 +165,7 @@
 ## blockchain 
 
 - [Web3-Club/Web3wiki-Website](https://github.com/Web3-Club/Web3wiki-Website) - 📖中文互联网第一个Web3相关知识的百科站点 ｜@Web3-Club
-- [TechBastic/roadmaps](https://github.com/TechBastic/roadmaps) - A curated list of resources to start your developer journey.
+- [techbastic/roadmaps](https://github.com/techbastic/roadmaps) - A curated list of resources to start your developer journey.
 - [slowmist/Knowledge-Base](https://github.com/slowmist/Knowledge-Base) - Knowledge Base 慢雾安全团队知识库
 
 ## c 
@@ -237,7 +237,7 @@
 
 ## data-science 
 
-- [TechBastic/roadmaps](https://github.com/TechBastic/roadmaps) - A curated list of resources to start your developer journey.
+- [techbastic/roadmaps](https://github.com/techbastic/roadmaps) - A curated list of resources to start your developer journey.
 
 ## database 
 
@@ -258,7 +258,7 @@
 
 ## devops 
 
-- [TechBastic/roadmaps](https://github.com/TechBastic/roadmaps) - A curated list of resources to start your developer journey.
+- [techbastic/roadmaps](https://github.com/techbastic/roadmaps) - A curated list of resources to start your developer journey.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 
 ## docker 
@@ -349,7 +349,7 @@
 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
-- [TechBastic/roadmaps](https://github.com/TechBastic/roadmaps) - A curated list of resources to start your developer journey.
+- [techbastic/roadmaps](https://github.com/techbastic/roadmaps) - A curated list of resources to start your developer journey.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -480,7 +480,7 @@
 ## open-source 
 
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
-- [TechBastic/roadmaps](https://github.com/TechBastic/roadmaps) - A curated list of resources to start your developer journey.
+- [techbastic/roadmaps](https://github.com/techbastic/roadmaps) - A curated list of resources to start your developer journey.
 
 ## operating-system 
 
@@ -491,6 +491,7 @@
 
 ## others 
 
+- [ygs-code/vue](https://github.com/ygs-code/vue) - vue源码逐行注释分析+40多m的vue源码程序流程图思维导图
 - [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
 - [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
