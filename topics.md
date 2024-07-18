@@ -210,6 +210,7 @@
 
 ## cpp 
 
+- [qingzhixing/AcWing-Basic-Algorithm](https://github.com/qingzhixing/AcWing-Basic-Algorithm) - AcWing算法基础课项目,所有题目均以c++实现
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [FengJungle/DesignPattern](https://github.com/FengJungle/DesignPattern) - Design pattern demo code
 - [X-czh/smart_ptr](https://github.com/X-czh/smart_ptr) - My own implementation of C++'s smart pointers
@@ -491,6 +492,7 @@
 
 ## others 
 
+- [shinezzz/AcWingBasicAlgorithmCourse](https://github.com/shinezzz/AcWingBasicAlgorithmCourse) - ACWing 算法基础课 Java 版笔记
 - [ygs-code/vue](https://github.com/ygs-code/vue) - vue源码逐行注释分析+40多m的vue源码程序流程图思维导图
 - [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
 - [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
