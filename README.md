@@ -21,6 +21,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
+- [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -179,6 +180,10 @@
 ## Nunjucks 
 
 - [ksylor/ohshitgit](https://github.com/ksylor/ohshitgit) - The official home of Oh Shit, Git!?!
+
+## OpenSCAD 
+
+- [Dimsmary/Dactyl-HelloWord](https://github.com/Dimsmary/Dactyl-HelloWord) - A Dactyl keyboard with HelloWord Firmware
 
 ## Others 
 
