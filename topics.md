@@ -529,7 +529,7 @@
 
 ## others 
 
-- [algorithmzuo/algorithm-journey](https://github.com/algorithmzuo/algorithm-journey) - 算法通关课的代码和课件
+- [algorithmzuo/algorithm-journey](https://github.com/algorithmzuo/algorithm-journey) - 左程云的算法和数据结构通关课
 - [CN-annotation-team/redis7.0-chinese-annotated](https://github.com/CN-annotation-team/redis7.0-chinese-annotated) - Redis 7.0.5 版本——中文注释，持续更新！欢迎参与本项目！🍭🍭🍭
 - [LiLittleCat/tools-in-ruanyf-weekly](https://github.com/LiLittleCat/tools-in-ruanyf-weekly) - 阮一峰老师科技爱好者周刊「工具」和「资源」汇总。A collection of tools and resources featured in Ruanyifeng's weekly technology enthusiast newsletter.
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
