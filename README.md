@@ -152,7 +152,7 @@
 
 ## Java 
 
-- [algorithmzuo/algorithm-journey](https://github.com/algorithmzuo/algorithm-journey) - 算法通关课的代码和课件
+- [algorithmzuo/algorithm-journey](https://github.com/algorithmzuo/algorithm-journey) - 左程云的算法和数据结构通关课
 - [LiLittleCat/tools-in-ruanyf-weekly](https://github.com/LiLittleCat/tools-in-ruanyf-weekly) - 阮一峰老师科技爱好者周刊「工具」和「资源」汇总。A collection of tools and resources featured in Ruanyifeng's weekly technology enthusiast newsletter.
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
