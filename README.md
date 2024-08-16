@@ -198,6 +198,7 @@
 
 ## Others 
 
+- [vectorxxxx/NOTE_JVM](https://github.com/vectorxxxx/NOTE_JVM) - 尚硅谷JVM全套教程，百万播放，全网巅峰（宋红康详解java虚拟机）学习笔记
 - [sonicoder86/awesome-vue-3](https://github.com/sonicoder86/awesome-vue-3) - A curated list of awesome things related to Vue 3
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 - [shinezzz/AcWingBasicAlgorithmCourse](https://github.com/shinezzz/AcWingBasicAlgorithmCourse) - ACWing 算法基础课 Java 版笔记
