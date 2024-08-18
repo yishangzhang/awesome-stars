@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [C](#c)
 - [C++](#c++)
 - [CMake](#cmake)
@@ -32,6 +33,10 @@
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [XML](#xml)
+
+## Assembly 
+
+- [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 
 ## C 
 
