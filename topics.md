@@ -50,6 +50,7 @@
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
+- [https](#https)
 - [java](#java)
 - [javascript](#javascript)
 - [jquery](#jquery)
@@ -370,6 +371,7 @@
 
 ## hacktoberfest 
 
+- [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [techbastic/roadmaps](https://github.com/techbastic/roadmaps) - A curated list of resources to start your developer journey.
@@ -382,6 +384,10 @@
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [linyacool/WebServer](https://github.com/linyacool/WebServer) - A C++ High Performance Web Server
 - [baidu/dperf](https://github.com/baidu/dperf) - dperf is a 100Gbps network load tester.
+
+## https 
+
+- [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 
 ## java 
 
