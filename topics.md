@@ -19,6 +19,7 @@
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [code](#code)
@@ -196,6 +197,11 @@
 - [HiganFish/Notes-HighPerformanceLinuxServerProgramming](https://github.com/HiganFish/Notes-HighPerformanceLinuxServerProgramming) - Linux高性能服务器编程(作者 游双) 读书笔记和Demo
 - [tarun27sh/gdb_graphs](https://github.com/tarun27sh/gdb_graphs) - To visualize function call flow for a C/C++ program using gdb and python
 - [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++ interview questions
+
+## c-plus-plus 
+
+- [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 ## chatgpt 
 
