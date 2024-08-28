@@ -550,6 +550,8 @@
 
 ## others 
 
+- [xftxyz2001/atguigu-ssm](https://github.com/xftxyz2001/atguigu-ssm) - 尚硅谷新版SSM框架全套视频教程，Spring6+SpringBoot3最新SSM企业级开发相关
+- [xftxyz2001/atguigu-javaweb](https://github.com/xftxyz2001/atguigu-javaweb) - 尚硅谷全新JavaWeb教程，企业主流javaweb技术栈相关
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [vishpat/lisp-rs](https://github.com/vishpat/lisp-rs) - 
