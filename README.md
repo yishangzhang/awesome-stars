@@ -40,6 +40,7 @@
 
 ## C 
 
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
 - [CN-annotation-team/redis7.0-chinese-annotated](https://github.com/CN-annotation-team/redis7.0-chinese-annotated) - Redis 7.0.5 版本——中文注释，持续更新！欢迎参与本项目！🍭🍭🍭
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [rprata/linux-device-driver-tutorial](https://github.com/rprata/linux-device-driver-tutorial) - This tutorial discusses technical issues to develop your own linux device driver. The aim of this tutorial is to provide, easy and practical examples so that everybody can understand the concepts in a
@@ -135,7 +136,6 @@
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [marmotedu/iam](https://github.com/marmotedu/iam) - 企业级的 Go 语言实战项目：认证和授权系统（带配套课程）
 - [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
-- [gwuhaolin/lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
 
 ## HTML 
 
@@ -183,6 +183,7 @@
 
 ## Jupyter Notebook 
 
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
@@ -291,6 +292,8 @@
 
 ## Rust 
 
+- [mytechnotalent/Hacking-Rust](https://github.com/mytechnotalent/Hacking-Rust) - A  FREE comprehensive online Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch.
+- [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [vishpat/lisp-rs](https://github.com/vishpat/lisp-rs) - 
