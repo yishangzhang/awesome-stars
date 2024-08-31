@@ -9,6 +9,7 @@
 - [algorithm](#algorithm)
 - [android](#android)
 - [ansible](#ansible)
+- [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -30,6 +31,7 @@
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
+- [cybersecurity](#cybersecurity)
 - [data-science](#data-science)
 - [database](#database)
 - [deep-learning](#deep-learning)
@@ -51,6 +53,8 @@
 - [golang](#golang)
 - [google](#google)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
+- [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
 - [https](#https)
@@ -92,6 +96,7 @@
 - [r](#r)
 - [react](#react)
 - [reactjs](#reactjs)
+- [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
@@ -107,6 +112,7 @@
 - [terminal](#terminal)
 - [twitter](#twitter)
 - [typescript](#typescript)
+- [ubuntu](#ubuntu)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
@@ -137,6 +143,10 @@
 ## ansible 
 
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
+
+## archlinux 
+
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
 
 ## artificial-intelligence 
 
@@ -272,6 +282,10 @@
 - [cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
+## cybersecurity 
+
+- [mytechnotalent/Hacking-Rust](https://github.com/mytechnotalent/Hacking-Rust) - A  FREE comprehensive online Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch.
+
 ## data-science 
 
 - [techbastic/roadmaps](https://github.com/techbastic/roadmaps) - A curated list of resources to start your developer journey.
@@ -384,7 +398,16 @@
 
 ## hacking 
 
+- [mytechnotalent/Hacking-Rust](https://github.com/mytechnotalent/Hacking-Rust) - A  FREE comprehensive online Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch.
 - [slowmist/Knowledge-Base](https://github.com/slowmist/Knowledge-Base) - Knowledge Base 慢雾安全团队知识库
+
+## hacking-tool 
+
+- [mytechnotalent/Hacking-Rust](https://github.com/mytechnotalent/Hacking-Rust) - A  FREE comprehensive online Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch.
+
+## hacking-tools 
+
+- [mytechnotalent/Hacking-Rust](https://github.com/mytechnotalent/Hacking-Rust) - A  FREE comprehensive online Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch.
 
 ## hacktoberfest 
 
@@ -453,6 +476,7 @@
 
 ## linux 
 
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -486,6 +510,7 @@
 
 ## macos 
 
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -506,6 +531,7 @@
 
 ## maven 
 
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
 - [AdamBien/java-plain](https://github.com/AdamBien/java-plain) - The shortest possible maven template / quickstarter for Java
 
 ## microsoft 
@@ -539,6 +565,7 @@
 
 ## npm 
 
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
 ## open-source 
@@ -555,6 +582,7 @@
 
 ## others 
 
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
 - [xftxyz2001/atguigu-ssm](https://github.com/xftxyz2001/atguigu-ssm) - 尚硅谷新版SSM框架全套视频教程，Spring6+SpringBoot3最新SSM企业级开发相关
 - [xftxyz2001/atguigu-javaweb](https://github.com/xftxyz2001/atguigu-javaweb) - 尚硅谷全新JavaWeb教程，企业主流javaweb技术栈相关
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
@@ -655,7 +683,6 @@
 - [mirror/busybox](https://github.com/mirror/busybox) - BusyBox mirror
 - [ESwordCn/Cpper_0ffers](https://github.com/ESwordCn/Cpper_0ffers) - C++选手提前批/秋招可投岗位
 - [IvanMtze/LinuxContainer](https://github.com/IvanMtze/LinuxContainer) - Linux Container in 500 lines
-- [gwuhaolin/lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
 - [mayfly227/LightSocks-cxx](https://github.com/mayfly227/LightSocks-cxx) - ⚡️一个轻巧的网络混淆代理🌏
 - [XUranus/lightsocks-java](https://github.com/XUranus/lightsocks-java) - lite sock5 protocal based network proxy tool
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
@@ -744,6 +771,10 @@
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
+## reverse-engineering 
+
+- [mytechnotalent/Hacking-Rust](https://github.com/mytechnotalent/Hacking-Rust) - A  FREE comprehensive online Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch.
+
 ## ruby 
 
 - [JonnyKong/Coursera-ProgrammingLanguagesUW](https://github.com/JonnyKong/Coursera-ProgrammingLanguagesUW) - Coursera: Programming Languages, Univ. of Washington
@@ -751,6 +782,8 @@
 
 ## rust 
 
+- [mytechnotalent/Hacking-Rust](https://github.com/mytechnotalent/Hacking-Rust) - A  FREE comprehensive online Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch.
+- [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
@@ -831,6 +864,10 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
+## ubuntu 
+
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
+
 ## vim 
 
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
@@ -854,6 +891,8 @@
 
 ## windows 
 
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
+- [mytechnotalent/Hacking-Rust](https://github.com/mytechnotalent/Hacking-Rust) - A  FREE comprehensive online Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
