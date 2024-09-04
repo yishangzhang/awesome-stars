@@ -70,6 +70,7 @@
 
 ## C++ 
 
+- [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
 - [PKUFlyingPig/CS144-Computer-Network](https://github.com/PKUFlyingPig/CS144-Computer-Network) - Learning materials for Stanford Computer Network course : CS144
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
 - [qingzhixing/AcWing-Basic-Algorithm](https://github.com/qingzhixing/AcWing-Basic-Algorithm) - AcWing算法基础课项目,所有题目均以c++实现
