@@ -28,6 +28,7 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [Standard ML](#standard-ml)
 - [TypeScript](#typescript)
@@ -321,10 +322,14 @@
 - [yiransheng/wontun](https://github.com/yiransheng/wontun) - write your own vpn
 - [kevin-lesenechal/elf-info](https://github.com/kevin-lesenechal/elf-info) - Inspect and dissect an ELF file with pretty formatting.
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
+- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [occlum/occlum](https://github.com/occlum/occlum) - Occlum is a memory-safe, multi-process library OS for Intel SGX
 - [intel/vtpm-td](https://github.com/intel/vtpm-td) - 
 - [yunwei37/os-summer-of-code-daily](https://github.com/yunwei37/os-summer-of-code-daily) - OS Summer of Code 2020 每日学习实践记录（rust 学习 & rcore tutorial rust实现一个riscv操作系统 & rCore 到 zCore 的功能迁移）
+
+## SCSS 
+
+- [wanghenshui/cppweeklynews](https://github.com/wanghenshui/cppweeklynews) - c++中文周刊
 
 ## Shell 
 
