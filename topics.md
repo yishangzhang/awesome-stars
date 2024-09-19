@@ -85,6 +85,7 @@
 - [nosql](#nosql)
 - [npm](#npm)
 - [open-source](#open-source)
+- [openai](#openai)
 - [operating-system](#operating-system)
 - [others](#others)
 - [postgresql](#postgresql)
@@ -583,6 +584,14 @@
 
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 - [techbastic/roadmaps](https://github.com/techbastic/roadmaps) - A curated list of resources to start your developer journey.
+
+## openai 
+
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+- [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
+- [SchneeHertz/chat-xiuliu](https://github.com/SchneeHertz/chat-xiuliu) - ChatGPT Client with Function Calling | ChatGPT客户端，支持联网，IO操作和执行代码
+- [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) - 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work
 
 ## operating-system 
 
