@@ -450,6 +450,7 @@
 
 ## javascript 
 
+- [MichaelCurrin/vue-quickstart](https://github.com/MichaelCurrin/vue-quickstart) - Starter template for a Vue 2 site - including docs and CI deploy to GH Pages
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -602,6 +603,8 @@
 
 ## others 
 
+- [liteli1987gmail/langchainzh](https://github.com/liteli1987gmail/langchainzh) - langchain中文网是langchain的中文文档
+- [nageoffer/12306](https://github.com/nageoffer/12306) - 🔥 官方推荐 🔥 大学春招、秋招、应届项目，SpringBoot3 + Java17 + SpringCloud Alibaba + Vue3 等技术架构，完成高仿铁路 12306 用户 + 抢票 + 订单 + 支付服务，帮助学生主打就业的项目。
 - [feiyuchuixue/sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent) - Sz-Admin：一个开源RBAC中后台框架，专为现代应用设计。它结合了最新的技术栈，包括后端的Spring Boot 3、JDK 21、Mybatis Flex、Sa-Token、Knife4j和Flyway，以及前端的Vue 3、Vite5、TypeScript和Element Plus，致力于为您提供一个直观、流畅且功能强大的开发体验。
 - [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
 - [rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn) - Effective Rust 中文版
@@ -910,10 +913,12 @@
 
 ## vue 
 
+- [MichaelCurrin/vue-quickstart](https://github.com/MichaelCurrin/vue-quickstart) - Starter template for a Vue 2 site - including docs and CI deploy to GH Pages
 - [sonicoder86/awesome-vue-3](https://github.com/sonicoder86/awesome-vue-3) - A curated list of awesome things related to Vue 3
 
 ## vuejs 
 
+- [MichaelCurrin/vue-quickstart](https://github.com/MichaelCurrin/vue-quickstart) - Starter template for a Vue 2 site - including docs and CI deploy to GH Pages
 - [sonicoder86/awesome-vue-3](https://github.com/sonicoder86/awesome-vue-3) - A curated list of awesome things related to Vue 3
 
 ## website 
