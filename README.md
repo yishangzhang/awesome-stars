@@ -20,6 +20,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [MDX](#mdx)
 - [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
 - [OpenSCAD](#openscad)
@@ -33,6 +34,7 @@
 - [Standard ML](#standard-ml)
 - [TypeScript](#typescript)
 - [Typst](#typst)
+- [Vue](#vue)
 - [XML](#xml)
 
 ## Assembly 
@@ -163,6 +165,7 @@
 
 ## Java 
 
+- [nageoffer/12306](https://github.com/nageoffer/12306) - 🔥 官方推荐 🔥 大学春招、秋招、应届项目，SpringBoot3 + Java17 + SpringCloud Alibaba + Vue3 等技术架构，完成高仿铁路 12306 用户 + 抢票 + 订单 + 支付服务，帮助学生主打就业的项目。
 - [feiyuchuixue/sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent) - Sz-Admin：一个开源RBAC中后台框架，专为现代应用设计。它结合了最新的技术栈，包括后端的Spring Boot 3、JDK 21、Mybatis Flex、Sa-Token、Knife4j和Flyway，以及前端的Vue 3、Vite5、TypeScript和Element Plus，致力于为您提供一个直观、流畅且功能强大的开发体验。
 - [xftxyz2001/atguigu-ssm](https://github.com/xftxyz2001/atguigu-ssm) - 尚硅谷新版SSM框架全套视频教程，Spring6+SpringBoot3最新SSM企业级开发相关
 - [fengwenyi/mybatis-plus-code-generator](https://github.com/fengwenyi/mybatis-plus-code-generator) - MyBatis-Plus代码生成器
@@ -198,6 +201,10 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 - [prodramp/DeepWorks](https://github.com/prodramp/DeepWorks) - A collection of Deep Learning projects  and resources
+
+## MDX 
+
+- [liteli1987gmail/langchainzh](https://github.com/liteli1987gmail/langchainzh) - langchain中文网是langchain的中文文档
 
 ## Markdown 
 
@@ -370,6 +377,10 @@
 ## Typst 
 
 - [parallel101/cppguidebook](https://github.com/parallel101/cppguidebook) - 小彭老师领衔编写，现代C++的中文百科全书
+
+## Vue 
+
+- [MichaelCurrin/vue-quickstart](https://github.com/MichaelCurrin/vue-quickstart) - Starter template for a Vue 2 site - including docs and CI deploy to GH Pages
 
 ## XML 
 
