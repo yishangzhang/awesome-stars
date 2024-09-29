@@ -165,6 +165,7 @@
 
 ## Java 
 
+- [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering
 - [nageoffer/12306](https://github.com/nageoffer/12306) - 🔥 官方推荐 🔥 大学春招、秋招、应届项目，SpringBoot3 + Java17 + SpringCloud Alibaba + Vue3 等技术架构，完成高仿铁路 12306 用户 + 抢票 + 订单 + 支付服务，帮助学生主打就业的项目。
 - [feiyuchuixue/sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent) - Sz-Admin：一个开源RBAC中后台框架，专为现代应用设计。它结合了最新的技术栈，包括后端的Spring Boot 3、JDK 21、Mybatis Flex、Sa-Token、Knife4j和Flyway，以及前端的Vue 3、Vite5、TypeScript和Element Plus，致力于为您提供一个直观、流畅且功能强大的开发体验。
 - [xftxyz2001/atguigu-ssm](https://github.com/xftxyz2001/atguigu-ssm) - 尚硅谷新版SSM框架全套视频教程，Spring6+SpringBoot3最新SSM企业级开发相关
@@ -352,6 +353,7 @@
 
 ## Shell 
 
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [blossomin/AMDSEV-azure](https://github.com/blossomin/AMDSEV-azure) - 
 - [AMDESE/AMDSEV](https://github.com/AMDESE/AMDSEV) - AMD Secure Encrypted Virtualization
 - [AdamBien/java-plain](https://github.com/AdamBien/java-plain) - The shortest possible maven template / quickstarter for Java
