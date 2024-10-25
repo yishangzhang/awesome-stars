@@ -697,6 +697,7 @@
 
 ## others 
 
+- [Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) - Rust 编码规范 中文版 （非官方）
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
 - [OpenSourceSourceTrail/Sourcetrail](https://github.com/OpenSourceSourceTrail/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [edonyzpc/personal-assistant](https://github.com/edonyzpc/personal-assistant) - A plugin which help you to automatically manage Obsidian.
