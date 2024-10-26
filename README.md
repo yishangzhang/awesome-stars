@@ -328,6 +328,7 @@
 
 ## Rust 
 
+- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
 - [WuBingzheng/build-lua-in-rust](https://github.com/WuBingzheng/build-lua-in-rust) - 《用Rust实现Lua解释器》 / _Build a Lua Interpreter in Rust_
 - [zhangyuang/leetcode](https://github.com/zhangyuang/leetcode) - solve questions in leetcode by Rust
