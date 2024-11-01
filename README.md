@@ -32,6 +32,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Standard ML](#standard-ml)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [Vue](#vue)
@@ -382,6 +383,10 @@
 
 - [JonnyKong/Coursera-ProgrammingLanguagesUW](https://github.com/JonnyKong/Coursera-ProgrammingLanguagesUW) - Coursera: Programming Languages, Univ. of Washington
 - [doct0rX/ProgrammingLanguages](https://github.com/doct0rX/ProgrammingLanguages) - Programming Languages (University of Washington)
+
+## Svelte 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## TypeScript 
 
