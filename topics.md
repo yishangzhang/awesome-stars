@@ -32,6 +32,7 @@
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
+- [cryptocurrency](#cryptocurrency)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -234,6 +235,7 @@
 
 ## blockchain 
 
+- [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is digital currency. Its ticker is: XNO and its currency symbol is: Ӿ
 - [Web3-Club/Web3wiki-Website](https://github.com/Web3-Club/Web3wiki-Website) - 📖中文互联网第一个Web3相关知识的百科站点 ｜@Web3-Club
 - [techbastic/roadmaps](https://github.com/techbastic/roadmaps) - A curated list of resources to start your developer journey.
 - [slowmist/Knowledge-Base](https://github.com/slowmist/Knowledge-Base) - Knowledge Base 慢雾安全团队知识库
@@ -327,6 +329,10 @@
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++ interview questions
 - [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus) - 课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB
+
+## cryptocurrency 
+
+- [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is digital currency. Its ticker is: XNO and its currency symbol is: Ӿ
 
 ## csharp 
 
