@@ -136,6 +136,7 @@
 - [ubuntu](#ubuntu)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [website](#website)
@@ -812,7 +813,6 @@
 - [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
 - [antergone/palm-proxy](https://github.com/antergone/palm-proxy) - Google PaLM API proxy on Vercel Edge
-- [yiransheng/wontun](https://github.com/yiransheng/wontun) - write your own vpn
 - [oldawei/show_me_the_code](https://github.com/oldawei/show_me_the_code) - Talk is cheap. Show me the code.
 - [SPK80/ChromeTools](https://github.com/SPK80/ChromeTools) - Google Chrome Extention Template
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
@@ -1090,6 +1090,10 @@
 ## visual-studio-code 
 
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - An 8 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
+
+## vpn 
+
+- [yiransheng/wontun](https://github.com/yiransheng/wontun) - write your own vpn
 
 ## vue 
 
