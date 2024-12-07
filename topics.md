@@ -100,8 +100,10 @@
 - [openai](#openai)
 - [operating-system](#operating-system)
 - [others](#others)
+- [package-manager](#package-manager)
 - [postgresql](#postgresql)
 - [programming](#programming)
+- [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -144,6 +146,7 @@
 
 ## ai 
 
+- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
 - [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [StevenJokess/2bPM](https://github.com/StevenJokess/2bPM) - 学习如何成为AI产品经理并体系化总结生成书https://stevenjokess.github.io/2bPM/
@@ -249,6 +252,7 @@
 
 ## c 
 
+- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
@@ -315,6 +319,7 @@
 
 ## cpp 
 
+- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
 - [Mq-b/Modern-Cpp-templates-tutorial](https://github.com/Mq-b/Modern-Cpp-templates-tutorial) - 现代C++模板教程
 - [wanghenshui/cppweeklynews](https://github.com/wanghenshui/cppweeklynews) - c++中文周刊
 - [qingzhixing/AcWing-Basic-Algorithm](https://github.com/qingzhixing/AcWing-Basic-Algorithm) - AcWing算法基础课项目,所有题目均以c++实现
@@ -738,7 +743,7 @@
 - [Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) - Rust 编码规范 中文版 （非官方）
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
 - [OpenSourceSourceTrail/Sourcetrail](https://github.com/OpenSourceSourceTrail/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
-- [edonyzpc/personal-assistant](https://github.com/edonyzpc/personal-assistant) - A plugin which help you to automatically manage Obsidian.
+- [edonyzpc/personal-assistant](https://github.com/edonyzpc/personal-assistant) - A plugin that harnesses AI agents and streamlining techniques to help you automatically manage Obsidian.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [liteli1987gmail/langchainzh](https://github.com/liteli1987gmail/langchainzh) - langchain中文网是langchain的中文文档
 - [nageoffer/12306](https://github.com/nageoffer/12306) - 🔥 官方推荐 🔥 大学春招、秋招、应届项目，SpringBoot3 + Java17 + SpringCloud Alibaba + Vue3 等技术架构，完成高仿铁路 12306 用户 + 抢票 + 订单 + 支付服务，帮助学生主打就业的项目。
@@ -876,6 +881,10 @@
 - [CN-GuoZiyang/Moonix](https://github.com/CN-GuoZiyang/Moonix) - Yet another RISC-V OS in C
 - [Minep/lunaix-os](https://github.com/Minep/lunaix-os) - A simple (yet naive), POSIX-compliant (hopefully!) operating system from scratch!
 
+## package-manager 
+
+- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
+
 ## postgresql 
 
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -886,12 +895,17 @@
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [chinesehuazhou/python-whydo](https://github.com/chinesehuazhou/python-whydo) - Explore Python's charms by asking WHY questions
 
+## project-management 
+
+- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
+
 ## pwa 
 
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 
 ## python 
 
+- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
 - [chen3feng/blade-build](https://github.com/chen3feng/blade-build) - Blade is a powerful build system from Tencent, supports many mainstream programming languages, such as C/C++, java, scala, python, protobuf...
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
