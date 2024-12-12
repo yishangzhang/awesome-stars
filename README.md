@@ -252,7 +252,7 @@
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
-- [hijkzzz/Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.
+- [hijkzzz/Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.
 - [xftxyz2001/atguigu-javaweb](https://github.com/xftxyz2001/atguigu-javaweb) - 尚硅谷全新JavaWeb教程，企业主流javaweb技术栈相关
 - [vectorxxxx/NOTE_JVM](https://github.com/vectorxxxx/NOTE_JVM) - 尚硅谷JVM全套教程，百万播放，全网巅峰（宋红康详解java虚拟机）学习笔记
 - [sonicoder86/awesome-vue-3](https://github.com/sonicoder86/awesome-vue-3) - A curated list of awesome things related to Vue 3
