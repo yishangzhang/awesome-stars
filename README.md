@@ -33,7 +33,6 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Standard ML](#standard-ml)
-- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [Vue](#vue)
@@ -197,6 +196,7 @@
 ## JavaScript 
 
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) - Rust 编码规范 中文版 （非官方）
 - [gloriasoft/veaury](https://github.com/gloriasoft/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible!
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
@@ -398,10 +398,6 @@
 
 - [JonnyKong/Coursera-ProgrammingLanguagesUW](https://github.com/JonnyKong/Coursera-ProgrammingLanguagesUW) - Coursera: Programming Languages, Univ. of Washington
 - [doct0rX/ProgrammingLanguages](https://github.com/doct0rX/ProgrammingLanguages) - Programming Languages (University of Washington)
-
-## Svelte 
-
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## TypeScript 
 
