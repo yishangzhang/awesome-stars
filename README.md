@@ -333,7 +333,7 @@
 - [grbnb/epicgames-claimer](https://github.com/grbnb/epicgames-claimer) - epic
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
 - [lutao2021/BrightDreamer](https://github.com/lutao2021/BrightDreamer) - BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis
-- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 9-Lesson course teaching everything you need to know about harnessing GitHub Copilot as an AI Paired Programing resource.
+- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 9-Lesson course teaching everything you need to know about harnessing GitHub Copilot as an AI Paired Programming resource.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [NVIDIA/nvtrust](https://github.com/NVIDIA/nvtrust) - Ancillary open source software to support confidential computing on NVIDIA GPUs
 - [tarun27sh/gdb_graphs](https://github.com/tarun27sh/gdb_graphs) - To visualize function call flow for a C/C++ program using gdb and python
@@ -435,7 +435,7 @@
 
 ## XML 
 
-- [zotero-chinese/styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式
+- [zotero-chinese/styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式 - Zotero 中文社区
 
 
 ## License
