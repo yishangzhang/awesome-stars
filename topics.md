@@ -148,7 +148,7 @@
 ## ai 
 
 - [techa03/goodsKill](https://github.com/techa03/goodsKill) - 🐲基于SpringCloud 2023.x + Dubbo 3.x + AI构建的模拟秒杀微服务项目，集成了Elasticsearch🔍、Gateway、Mybatis-Plus、Sharding-JDBC等常用开源组件
-- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
+- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具集 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
 - [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [StevenJokess/2bPM](https://github.com/StevenJokess/2bPM) - 学习如何成为AI产品经理并体系化总结生成书https://stevenjokess.github.io/2bPM/
@@ -254,7 +254,6 @@
 
 ## c 
 
-- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
@@ -321,7 +320,6 @@
 
 ## cpp 
 
-- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
 - [Mq-b/Modern-Cpp-templates-tutorial](https://github.com/Mq-b/Modern-Cpp-templates-tutorial) - 现代C++模板教程
 - [wanghenshui/cppweeklynews](https://github.com/wanghenshui/cppweeklynews) - c++中文周刊
 - [qingzhixing/AcWing-Basic-Algorithm](https://github.com/qingzhixing/AcWing-Basic-Algorithm) - AcWing算法基础课项目,所有题目均以c++实现
@@ -894,7 +892,7 @@
 
 ## package-manager 
 
-- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
+- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具集 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
 
 ## postgresql 
 
@@ -908,7 +906,7 @@
 
 ## project-management 
 
-- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
+- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具集 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
 
 ## pwa 
 
@@ -916,7 +914,6 @@
 
 ## python 
 
-- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
 - [chen3feng/blade-build](https://github.com/chen3feng/blade-build) - Blade is a powerful build system from Tencent, supports many mainstream programming languages, such as C/C++, java, scala, python, protobuf...
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
