@@ -752,6 +752,7 @@
 
 ## others 
 
+- [Wlgls/30daysCppWebServer](https://github.com/Wlgls/30daysCppWebServer) - 
 - [microsoft/AI-System](https://github.com/microsoft/AI-System) - System for AI Education Resource.
 - [RedSpider1/concurrent](https://github.com/RedSpider1/concurrent) - 这是RedSpider社区成员原创与维护的Java多线程系列文章。
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
