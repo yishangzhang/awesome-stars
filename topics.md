@@ -50,6 +50,7 @@
 - [emacs](#emacs)
 - [es6](#es6)
 - [ethereum](#ethereum)
+- [facebook](#facebook)
 - [finance](#finance)
 - [framework](#framework)
 - [frontend](#frontend)
@@ -432,6 +433,11 @@
 ## ethereum 
 
 - [Web3-Club/Web3wiki-Website](https://github.com/Web3-Club/Web3wiki-Website) - 📖中文互联网第一个Web3相关知识的百科站点 ｜@Web3-Club
+
+## facebook 
+
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [0voice/computer_expert_paper](https://github.com/0voice/computer_expert_paper) - 1000+份计算机paper，卡耐基梅隆大学，哈佛，斯坦福，芝加哥大学，MIT，facebook，google，微软，Amazon，twitter等大牛一作，持续更新中
 
 ## finance 
 
