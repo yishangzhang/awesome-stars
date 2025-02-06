@@ -672,6 +672,7 @@
 
 ## markdown 
 
+- [uaxe/geektime-docs](https://github.com/uaxe/geektime-docs) - 极客时间 pdf & markdown 文档
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
 ## material-design 
@@ -758,6 +759,7 @@
 
 ## others 
 
+- [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [Wlgls/30daysCppWebServer](https://github.com/Wlgls/30daysCppWebServer) - 
 - [microsoft/AI-System](https://github.com/microsoft/AI-System) - System for AI Education Resource.
