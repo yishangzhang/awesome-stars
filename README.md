@@ -44,6 +44,7 @@
 
 ## C 
 
+- [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
 - [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
@@ -322,6 +323,7 @@
 
 ## Python 
 
+- [uaxe/geektime-docs](https://github.com/uaxe/geektime-docs) - 极客时间 pdf & markdown 文档
 - [microsoft/AI-System](https://github.com/microsoft/AI-System) - System for AI Education Resource.
 - [datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) - 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe
 - [chen3feng/blade-build](https://github.com/chen3feng/blade-build) - Blade is a powerful build system from Tencent, supports many mainstream programming languages, such as C/C++, java, scala, python, protobuf...
