@@ -78,7 +78,7 @@
 ## C++ 
 
 - [Wlgls/30daysCppWebServer](https://github.com/Wlgls/30daysCppWebServer) - 
-- [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - TensorRT-YOLO: A high-performance, easy-to-use YOLO deployment toolkit for NVIDIA, powered by TensorRT plugins and CUDA Graph, supporting C++ and Python.
+- [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - 🚀 Easier & Faster YOLO Deployment Toolkit for NVIDIA 🛠️
 - [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is digital currency. Its ticker is: XNO and its currency symbol is: Ӿ
 - [parallel101/stl1weekend](https://github.com/parallel101/stl1weekend) - Build your own STL in one weekend
 - [jart/json.cpp](https://github.com/jart/json.cpp) - JSON for Classic C++
