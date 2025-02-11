@@ -323,6 +323,7 @@
 
 ## Python 
 
+- [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 - [uaxe/geektime-docs](https://github.com/uaxe/geektime-docs) - 极客时间 pdf & markdown 文档
 - [microsoft/AI-System](https://github.com/microsoft/AI-System) - System for AI Education Resource.
 - [datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) - 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe
@@ -397,6 +398,7 @@
 
 ## Shell 
 
+- [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [blossomin/AMDSEV-azure](https://github.com/blossomin/AMDSEV-azure) - 
 - [AMDESE/AMDSEV](https://github.com/AMDESE/AMDSEV) - AMD Secure Encrypted Virtualization
