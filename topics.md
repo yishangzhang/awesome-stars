@@ -766,6 +766,7 @@
 
 ## others 
 
+- [VacantHusky/Fourier-visualization](https://github.com/VacantHusky/Fourier-visualization) - 傅里叶变换可视化
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
