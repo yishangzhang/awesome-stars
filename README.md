@@ -323,6 +323,7 @@
 
 ## Python 
 
+- [VacantHusky/Fourier-visualization](https://github.com/VacantHusky/Fourier-visualization) - 傅里叶变换可视化
 - [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 - [uaxe/geektime-docs](https://github.com/uaxe/geektime-docs) - 极客时间 pdf & markdown 文档
 - [microsoft/AI-System](https://github.com/microsoft/AI-System) - System for AI Education Resource.
