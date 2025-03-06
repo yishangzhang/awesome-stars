@@ -22,6 +22,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [MDX](#mdx)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
 - [OpenSCAD](#openscad)
@@ -243,6 +244,10 @@
 ## MDX 
 
 - [liteli1987gmail/langchainzh](https://github.com/liteli1987gmail/langchainzh) - langchain中文网是langchain的中文文档
+
+## Makefile 
+
+- [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
 
 ## Markdown 
 
