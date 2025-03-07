@@ -140,6 +140,7 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
+- [trading](#trading)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -904,7 +905,6 @@
 - [arjun024/memalloc](https://github.com/arjun024/memalloc) - A simple memory allocator - Memory allocation 101
 - [leesper/ProgrammersLevelUp](https://github.com/leesper/ProgrammersLevelUp) - 用20年时间跟着皓叔刷“程序员练级攻略”
 - [terobox/ChatGPT-API-Faucet](https://github.com/terobox/ChatGPT-API-Faucet) - AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品
-- [wangzhe3224/quant-roadmap](https://github.com/wangzhe3224/quant-roadmap) - 进入矿工（Quant）世界的路线图
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
 - [kagurazakakotori/ubmp-cn](https://github.com/kagurazakakotori/ubmp-cn) - フルスクラッチで作る!UEFIベアメタルプログラミング 中文版
 - [vimode/Advent-Calendars-For-Developers](https://github.com/vimode/Advent-Calendars-For-Developers) - Advent Calendars for Web Developers
@@ -1168,6 +1168,11 @@
 ## testing 
 
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
+
+## trading 
+
+- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引
+- [wangzhe3224/quant-roadmap](https://github.com/wangzhe3224/quant-roadmap) - 进入矿工（Quant）世界的路线图
 
 ## twitter 
 
