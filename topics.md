@@ -815,6 +815,7 @@
 
 ## others 
 
+- [learnk8s/xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
 - [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) - :book: [译] MachineLearningMastery 博客文章
 - [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
