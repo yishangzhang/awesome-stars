@@ -201,6 +201,7 @@
 
 ## JavaScript 
 
+- [learnk8s/xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
 - [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) - :book: [译] MachineLearningMastery 博客文章
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
