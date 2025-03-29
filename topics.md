@@ -1088,6 +1088,7 @@
 
 ## rust 
 
+- [regexident/cargo-modules](https://github.com/regexident/cargo-modules) - Visualize/analyze a Rust crate's internal structure
 - [rusty-ferris-club/jonhoo-rust-trivia](https://github.com/rusty-ferris-club/jonhoo-rust-trivia) - Rust Trivia by Jon Gjengset
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
