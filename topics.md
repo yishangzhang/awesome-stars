@@ -166,7 +166,7 @@
 - [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 - [refly-ai/refly](https://github.com/refly-ai/refly) - 🎨 Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combines multi-threaded dialogues, artifacts,  AI knowledge base integration, chrome extension clip & save
 - [techa03/goodsKill](https://github.com/techa03/goodsKill) - 🐍基于SpringCloud 2023.x + Dubbo 3.x + AI构建的模拟秒杀微服务项目，集成了Elasticsearch🔍、Gateway、Mybatis-Plus、Sharding-JDBC等常用开源组件
-- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具集 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
+- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个跨平台的开发者工具 - 包管理器 + 多版本管理 + 项目搭建 🛠️ A cross-platform developer tool for package management, version control, and project scaffolding
 - [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [StevenJokess/2bPM](https://github.com/StevenJokess/2bPM) - 学习如何成为AI产品经理并体系化总结生成书https://stevenjokess.github.io/2bPM/
@@ -993,7 +993,7 @@
 
 ## package-manager 
 
-- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具集 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
+- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个跨平台的开发者工具 - 包管理器 + 多版本管理 + 项目搭建 🛠️ A cross-platform developer tool for package management, version control, and project scaffolding
 
 ## postgresql 
 
@@ -1008,7 +1008,7 @@
 
 ## project-management 
 
-- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具集 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
+- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个跨平台的开发者工具 - 包管理器 + 多版本管理 + 项目搭建 🛠️ A cross-platform developer tool for package management, version control, and project scaffolding
 
 ## pwa 
 
