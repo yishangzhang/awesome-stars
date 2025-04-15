@@ -239,7 +239,7 @@
 
 ## Lua 
 
-- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个用于编程开发、学习和课程搭建的开发者工具集 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
+- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个跨平台的开发者工具 - 包管理器 + 多版本管理 + 项目搭建 🛠️ A cross-platform developer tool for package management, version control, and project scaffolding
 
 ## MDX 
 
