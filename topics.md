@@ -914,7 +914,7 @@
 - [intel/tdx-linux](https://github.com/intel/tdx-linux) - 
 - [TonyCrane/note](https://github.com/TonyCrane/note) - TonyCrane's Public Notebook
 - [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [AMDESE/AMDSEV](https://github.com/AMDESE/AMDSEV) - AMD Secure Encrypted Virtualization
 - [xueyong-q/docker-java](https://github.com/xueyong-q/docker-java) - 基于 Docker 的 JAVA 开发环境
 - [zotero-chinese/styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式 - Zotero 中文社区
