@@ -105,6 +105,7 @@
 - [nosql](#nosql)
 - [npm](#npm)
 - [numpy](#numpy)
+- [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [openai](#openai)
 - [operating-system](#operating-system)
@@ -801,6 +802,13 @@
 
 - [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 
+## obsidian-plugin 
+
+- [edonyzpc/personal-assistant](https://github.com/edonyzpc/personal-assistant) - A plugin that harnesses AI agents and streamlining techniques to help you automatically manage Obsidian.
+- [joethei/obsidian-plantuml](https://github.com/joethei/obsidian-plantuml) - Generate PlantUML Diagrams inside Obsidian.md
+- [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - Obsidian Template for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
+
 ## open-source 
 
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
@@ -856,7 +864,6 @@
 - [Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) - Rust 编码规范 中文版 （非官方）
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
 - [OpenSourceSourceTrail/Sourcetrail](https://github.com/OpenSourceSourceTrail/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
-- [edonyzpc/personal-assistant](https://github.com/edonyzpc/personal-assistant) - A plugin that harnesses AI agents and streamlining techniques to help you automatically manage Obsidian.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [liteli1987gmail/langchainzh](https://github.com/liteli1987gmail/langchainzh) - langchain中文网是langchain的中文文档
 - [nageoffer/12306](https://github.com/nageoffer/12306) - 🔥 官方推荐 🔥 大学春招、秋招、应届项目，SpringBoot3 + Java17 + SpringCloud Alibaba + Vue3 等技术架构，完成高仿铁路 12306 用户 + 抢票 + 订单 + 支付服务，帮助学生主打就业的项目。
@@ -879,7 +886,6 @@
 - [LiLittleCat/tools-in-ruanyf-weekly](https://github.com/LiLittleCat/tools-in-ruanyf-weekly) - 阮一峰老师科技爱好者周刊「工具」和「资源」汇总。A collection of tools and resources featured in Ruanyifeng's weekly technology enthusiast newsletter.
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-- [joethei/obsidian-plantuml](https://github.com/joethei/obsidian-plantuml) - Generate PlantUML Diagrams inside Obsidian.md
 - [parallel101/cppguidebook](https://github.com/parallel101/cppguidebook) - 小彭老师领衔编写，现代C++的中文百科全书
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
@@ -905,7 +911,6 @@
 - [grbnb/epicgames-claimer](https://github.com/grbnb/epicgames-claimer) - epic
 - [blossomin/AMDSEV-azure](https://github.com/blossomin/AMDSEV-azure) - 
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
-- [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - Obsidian Template for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
 - [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
