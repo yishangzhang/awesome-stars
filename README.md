@@ -337,7 +337,7 @@
 
 ## Python 
 
-- [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python) - 
+- [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python) - Agentic Coding for Python - Pocket Flow Project Template
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
