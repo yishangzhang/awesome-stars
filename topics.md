@@ -100,6 +100,7 @@
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
@@ -226,6 +227,7 @@
 
 ## automation 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## awesome 
@@ -303,7 +305,6 @@
 
 ## chatbot 
 
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) - 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work
 
 ## chatgpt 
@@ -704,6 +705,7 @@
 
 ## low-code 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [dibo-software/diboot](https://github.com/dibo-software/diboot) - 写的更少, 性能更好 -&gt; 为开发人员打造的低代码开发平台。mybatis-plus关联查询，关联无SQL，性能高10倍，前后端代码本地可视化生成，flowable工作流，spring cloud微服务等全方位赋能！
 
 ## lua 
@@ -780,6 +782,10 @@
 ## nlp 
 
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
+
+## no-code 
+
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 
 ## node 
 
