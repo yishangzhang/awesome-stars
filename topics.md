@@ -589,7 +589,6 @@
 
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [linyacool/WebServer](https://github.com/linyacool/WebServer) - A C++ High Performance Web Server
-- [baidu/dperf](https://github.com/baidu/dperf) - dperf is a 100Gbps network load tester.
 
 ## https 
 
@@ -687,7 +686,6 @@
 
 ## llm 
 
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -976,6 +974,7 @@
 - [IvanMtze/LinuxContainer](https://github.com/IvanMtze/LinuxContainer) - Linux Container in 500 lines
 - [mayfly227/LightSocks-cxx](https://github.com/mayfly227/LightSocks-cxx) - ⚡️一个轻巧的网络混淆代理🌏
 - [XUranus/lightsocks-java](https://github.com/XUranus/lightsocks-java) - lite sock5 protocal based network proxy tool
+- [baidu/dperf](https://github.com/baidu/dperf) - dperf is a 100Gbps network load tester.
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [jiazhang0/efi-tpm2-utils](https://github.com/jiazhang0/efi-tpm2-utils) - TPM 2.0 tools running in EFI environment
 - [yuan-xy/Linux-0.11](https://github.com/yuan-xy/Linux-0.11) - The old Linux kernel source ver 0.11 which has been tested under modern Linux,  Mac OSX and Windows.
