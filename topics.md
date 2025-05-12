@@ -162,6 +162,7 @@
 
 ## ai 
 
+- [jama1017/OKAI](https://github.com/jama1017/OKAI) - OKAI - An Interactive Introduction to Artificial Intelligence (AI)
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
@@ -770,6 +771,7 @@
 
 ## neural-network 
 
+- [jama1017/OKAI](https://github.com/jama1017/OKAI) - OKAI - An Interactive Introduction to Artificial Intelligence (AI)
 - [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - &lt;Beat AI&gt; 又名 &lt;零生万物&gt; , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 
 ## nextjs 
@@ -1215,6 +1217,7 @@
 
 ## tensorflow 
 
+- [myaooo/RNNVis](https://github.com/myaooo/RNNVis) - A visualization tool for understanding and debugging RNNs
 - [prodramp/DeepWorks](https://github.com/prodramp/DeepWorks) - A collection of Deep Learning projects  and resources
 
 ## terminal 
