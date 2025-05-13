@@ -77,6 +77,7 @@
 
 ## C++ 
 
+- [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
 - [Wlgls/30daysCppWebServer](https://github.com/Wlgls/30daysCppWebServer) - 
 - [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - 🚀 Easier & Faster YOLO Deployment Toolkit for NVIDIA 🛠️
 - [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is digital currency. Its ticker is: XNO and its currency symbol is: Ӿ
@@ -143,6 +144,7 @@
 
 ## Go 
 
+- [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware
 - [ABCDELabs/Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
@@ -342,6 +344,7 @@
 
 ## Python 
 
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [myaooo/RNNVis](https://github.com/myaooo/RNNVis) - A visualization tool for understanding and debugging RNNs
 - [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python) - Pocket Flow Project Template: Agentic Coding for Python
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
