@@ -181,7 +181,7 @@
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - &lt;Beat AI&gt; 又名 &lt;零生万物&gt; , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [ibeatai/BeatAI](https://github.com/ibeatai/BeatAI) - 持续分享/翻译 AI 领域的优秀内容，帮你战胜 AI，Just beat it! 欢迎 star 订阅，记住域名不迷路 https://BeatAI.cn
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
@@ -713,7 +713,7 @@
 - [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Qwen2.5、Qwen2、Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
 - [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - &lt;Beat AI&gt; 又名 &lt;零生万物&gt; , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [ibeatai/BeatAI](https://github.com/ibeatai/BeatAI) - 持续分享/翻译 AI 领域的优秀内容，帮你战胜 AI，Just beat it! 欢迎 star 订阅，记住域名不迷路 https://BeatAI.cn
 - [SchneeHertz/chat-xiuliu](https://github.com/SchneeHertz/chat-xiuliu) - ChatGPT Client with Function Calling | ChatGPT客户端，支持联网，IO操作和执行代码
 - [prodramp/DeepWorks](https://github.com/prodramp/DeepWorks) - A collection of Deep Learning projects  and resources
 
@@ -785,7 +785,7 @@
 ## neural-network 
 
 - [jama1017/OKAI](https://github.com/jama1017/OKAI) - OKAI - An Interactive Introduction to Artificial Intelligence (AI)
-- [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - &lt;Beat AI&gt; 又名 &lt;零生万物&gt; , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [ibeatai/BeatAI](https://github.com/ibeatai/BeatAI) - 持续分享/翻译 AI 领域的优秀内容，帮你战胜 AI，Just beat it! 欢迎 star 订阅，记住域名不迷路 https://BeatAI.cn
 
 ## nextjs 
 
