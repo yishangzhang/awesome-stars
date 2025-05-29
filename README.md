@@ -16,6 +16,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Handlebars](#handlebars)
+- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -173,12 +174,15 @@
 - [wangzhe3224/quant-roadmap](https://github.com/wangzhe3224/quant-roadmap) - 进入矿工（Quant）世界的路线图
 - [zhwei820/learn.lianglianglee.com](https://github.com/zhwei820/learn.lianglianglee.com) - 
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 
 ## Handlebars 
 
 - [ibeatai/BeatAI](https://github.com/ibeatai/BeatAI) - 持续分享/翻译 AI 领域的优秀内容，帮你征服 AI，Just beat it! 欢迎 star 订阅.
+
+## Haskell 
+
+- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 
 ## Java 
 
@@ -374,6 +378,7 @@
 - [tarun27sh/gdb_graphs](https://github.com/tarun27sh/gdb_graphs) - To visualize function call flow for a C/C++ program using gdb and python
 - [hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) - Linux 内核揭秘
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [fengyuanyu1/gdb-dashboard](https://github.com/fengyuanyu1/gdb-dashboard) - Modular visual interface for GDB in Python
 
 ## Ruby 
@@ -466,7 +471,7 @@
 - [antergone/palm-proxy](https://github.com/antergone/palm-proxy) - Google PaLM API proxy on Vercel Edge
 - [terobox/ChatGPT-API-Faucet](https://github.com/terobox/ChatGPT-API-Faucet) - AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 
 ## Typst 
