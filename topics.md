@@ -115,6 +115,7 @@
 - [others](#others)
 - [package-manager](#package-manager)
 - [postgresql](#postgresql)
+- [privacy](#privacy)
 - [programming](#programming)
 - [project-management](#project-management)
 - [pwa](#pwa)
@@ -166,6 +167,7 @@
 
 ## ai 
 
+- [oldjs/web-code-agent](https://github.com/oldjs/web-code-agent) - Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.
 - [jama1017/OKAI](https://github.com/jama1017/OKAI) - OKAI - An Interactive Introduction to Artificial Intelligence (AI)
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
@@ -185,7 +187,7 @@
 - [ibeatai/BeatAI](https://github.com/ibeatai/BeatAI) - 持续分享/翻译 AI 领域的优秀内容，帮你征服 AI，Just beat it! 欢迎 star 订阅.
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
-- [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
+- [chenzomi12/aisystem](https://github.com/chenzomi12/aisystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 
 ## algorithm 
 
@@ -321,7 +323,7 @@
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
-- [SchneeHertz/chat-xiuliu](https://github.com/SchneeHertz/chat-xiuliu) - ChatGPT Client with Function Calling | ChatGPT客户端，支持联网，IO操作和执行代码
+- [SchneeHertz/chat-xiuliu](https://github.com/SchneeHertz/chat-xiuliu) - LLM Client with Function Calling | LLM客户端，支持联网，IO操作和执行代码
 - [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) - 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work
 
 ## chrome-extension 
@@ -720,7 +722,7 @@
 - [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [ibeatai/BeatAI](https://github.com/ibeatai/BeatAI) - 持续分享/翻译 AI 领域的优秀内容，帮你征服 AI，Just beat it! 欢迎 star 订阅.
-- [SchneeHertz/chat-xiuliu](https://github.com/SchneeHertz/chat-xiuliu) - ChatGPT Client with Function Calling | ChatGPT客户端，支持联网，IO操作和执行代码
+- [SchneeHertz/chat-xiuliu](https://github.com/SchneeHertz/chat-xiuliu) - LLM Client with Function Calling | LLM客户端，支持联网，IO操作和执行代码
 - [prodramp/DeepWorks](https://github.com/prodramp/DeepWorks) - A collection of Deep Learning projects  and resources
 
 ## low-code 
@@ -803,6 +805,7 @@
 
 ## nlp 
 
+- [oldjs/web-code-agent](https://github.com/oldjs/web-code-agent) - Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 
 ## no-code 
@@ -853,7 +856,7 @@
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
-- [SchneeHertz/chat-xiuliu](https://github.com/SchneeHertz/chat-xiuliu) - ChatGPT Client with Function Calling | ChatGPT客户端，支持联网，IO操作和执行代码
+- [SchneeHertz/chat-xiuliu](https://github.com/SchneeHertz/chat-xiuliu) - LLM Client with Function Calling | LLM客户端，支持联网，IO操作和执行代码
 - [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) - 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work
 
 ## operating-system 
@@ -865,6 +868,7 @@
 
 ## others 
 
+- [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。
 - [jushahulian/java-go-python](https://github.com/jushahulian/java-go-python) - 包含海量课程各类it学习视频教程，最新版，持续更新，java视频教程，python视频教程，go视频教程,C,C++,C#视频教程,前端，数据库，大数据，人工智能视频教程，AIGC视频教程，ChatGPT，软件测试视频教程，网络安全/逆向视频教程，鸿蒙应用开发，Android等学习课程分享。
 - [xiaoniaoyouhuajiang/ClassNotebook](https://github.com/xiaoniaoyouhuajiang/ClassNotebook) - which are textual materials referenced in the bilibili videos
 - [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python) - Pocket Flow Project Template: Agentic Coding for Python
@@ -1035,6 +1039,10 @@
 ## postgresql 
 
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+
+## privacy 
+
+- [oldjs/web-code-agent](https://github.com/oldjs/web-code-agent) - Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.
 
 ## programming 
 
