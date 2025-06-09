@@ -161,6 +161,7 @@
 
 ## HTML 
 
+- [manateelazycat/manateelazycat.github.io](https://github.com/manateelazycat/manateelazycat.github.io) - My personal blog
 - [jama1017/OKAI](https://github.com/jama1017/OKAI) - OKAI - An Interactive Introduction to Artificial Intelligence (AI)
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
 - [StevenJokess/2bPM](https://github.com/StevenJokess/2bPM) - 学习如何成为AI产品经理并体系化总结生成书https://stevenjokess.github.io/2bPM/
