@@ -190,7 +190,7 @@
 - [iluwatar/30-seconds-of-java](https://github.com/iluwatar/30-seconds-of-java) - Collection of reusable tested Java 21 compatible code snippets that you can understand in 30 seconds or less.
 - [ttulka/ddd-example-ecommerce](https://github.com/ttulka/ddd-example-ecommerce) - Domain-driven design example in Java with Spring framework
 - [jushahulian/java-go-python](https://github.com/jushahulian/java-go-python) - 包含海量课程各类it学习视频教程，最新版，持续更新，java视频教程，python视频教程，go视频教程,C,C++,C#视频教程,前端，数据库，大数据，人工智能视频教程，AIGC视频教程，ChatGPT，软件测试视频教程，网络安全/逆向视频教程，鸿蒙应用开发，Android等学习课程分享。
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless/diskless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading) - 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。
 - [snicoll/spring-boot-daemon](https://github.com/snicoll/spring-boot-daemon) - Showcase of deploying a Spring Boot application as a Windows Service
 - [bage2014/study](https://github.com/bage2014/study) - Java全栈工程师学习笔记；Spring、shiro、CAS、oauth2单点登录；cache 、Redis; web 安全及解决思路；redis、mq、quartz、docker；Docker各种组件实践等；mybatis、spring、spring boot实践；分布式锁；基于分库分表等等；Java full-stack engineer study notes; Spring, shiro,
@@ -255,7 +255,7 @@
 
 ## Lua 
 
-- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个跨平台的开发者工具 - 包管理器 + 多版本管理 + 项目搭建 🛠️ A cross-platform developer tool for package management, version control, and project scaffolding
+- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个高度抽象的包管理器 - 多版本管理 + 万物皆可成包
 
 ## MDX 
 
