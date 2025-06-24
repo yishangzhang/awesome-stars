@@ -255,7 +255,7 @@
 
 ## Lua 
 
-- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个高度抽象的包管理器 - 多版本管理 + 万物皆可成包
+- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个高度抽象的包管理器 - "多版本管理 + 万物皆可成包"
 
 ## MDX 
 
