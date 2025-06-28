@@ -166,6 +166,7 @@
 
 ## HTML 
 
+- [WTFAcademy/WTF-CSS](https://github.com/WTFAcademy/WTF-CSS) - WTF CSS教程，帮助新人快速入门CSS，并写出Uniswap和NFT铸造的静态页面。
 - [manateelazycat/manateelazycat.github.io](https://github.com/manateelazycat/manateelazycat.github.io) - My personal blog
 - [jama1017/OKAI](https://github.com/jama1017/OKAI) - OKAI - An Interactive Introduction to Artificial Intelligence (AI)
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
@@ -287,6 +288,7 @@
 
 ## Others 
 
+- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
 - [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
 - [rusty-ferris-club/jonhoo-rust-trivia](https://github.com/rusty-ferris-club/jonhoo-rust-trivia) - Rust Trivia by Jon Gjengset
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
