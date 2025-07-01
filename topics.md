@@ -1053,7 +1053,7 @@
 - [whotracksme/anonymous-credentials](https://github.com/whotracksme/anonymous-credentials) - 
 - [csfive/HUST-CPU](https://github.com/csfive/HUST-CPU) - 🚧
 - [fengyuanyu1/gdb-dashboard](https://github.com/fengyuanyu1/gdb-dashboard) - Modular visual interface for GDB in Python
-- [CN-GuoZiyang/Moonix](https://github.com/CN-GuoZiyang/Moonix) - Yet another RISC-V OS in C
+- [senshinya/Moonix](https://github.com/senshinya/Moonix) - Yet another RISC-V OS in C
 - [Minep/lunaix-os](https://github.com/Minep/lunaix-os) - A simple (yet naive), POSIX-compliant (hopefully!) operating system from scratch!
 
 ## package-manager 
