@@ -401,6 +401,7 @@
 
 ## Rust 
 
+- [InkSha/rust-tutorial](https://github.com/InkSha/rust-tutorial) - Rust simple tutorial
 - [paolorechia/steeldb](https://github.com/paolorechia/steeldb) - A simple database built from scratch in Rust
 - [regexident/cargo-modules](https://github.com/regexident/cargo-modules) - Visualize/analyze a Rust crate's internal structure
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
