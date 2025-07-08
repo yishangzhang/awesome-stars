@@ -336,6 +336,7 @@
 
 ## cli 
 
+- [InkSha/rust-tutorial](https://github.com/InkSha/rust-tutorial) - 一个针对新手的 Rust 快速教程，从零开始写一个管理 Todos 的命令行程序
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -888,7 +889,6 @@
 
 ## others 
 
-- [InkSha/rust-tutorial](https://github.com/InkSha/rust-tutorial) - Rust simple tutorial
 - [WTFAcademy/WTF-CSS](https://github.com/WTFAcademy/WTF-CSS) - WTF CSS教程，帮助新人快速入门CSS，并写出Uniswap和NFT铸造的静态页面。
 - [dw-dengwei/daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced) - Automatically crawl arXiv papers daily and summarize them using AI. Illustrating them using GitHub Pages.
 - [manateelazycat/manateelazycat.github.io](https://github.com/manateelazycat/manateelazycat.github.io) - My personal blog
@@ -1170,6 +1170,7 @@
 
 ## rust 
 
+- [InkSha/rust-tutorial](https://github.com/InkSha/rust-tutorial) - 一个针对新手的 Rust 快速教程，从零开始写一个管理 Todos 的命令行程序
 - [paolorechia/steeldb](https://github.com/paolorechia/steeldb) - A simple database built from scratch in Rust
 - [regexident/cargo-modules](https://github.com/regexident/cargo-modules) - Visualize/analyze a Rust crate's internal structure
 - [rusty-ferris-club/jonhoo-rust-trivia](https://github.com/rusty-ferris-club/jonhoo-rust-trivia) - Rust Trivia by Jon Gjengset
