@@ -1029,7 +1029,7 @@
 - [IvanMtze/LinuxContainer](https://github.com/IvanMtze/LinuxContainer) - Linux Container in 500 lines
 - [mayfly227/LightSocks-cxx](https://github.com/mayfly227/LightSocks-cxx) - ⚡️一个轻巧的网络混淆代理🌏
 - [XUranus/lightsocks-java](https://github.com/XUranus/lightsocks-java) - lite sock5 protocal based network proxy tool
-- [baidu/dperf](https://github.com/baidu/dperf) - dperf is a 100Gbps network load tester.
+- [baidu/dperf](https://github.com/baidu/dperf) - dperf: High-Performance Network Load Testing Tool Based on DPDK
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [jiazhang0/efi-tpm2-utils](https://github.com/jiazhang0/efi-tpm2-utils) - TPM 2.0 tools running in EFI environment
 - [yuan-xy/Linux-0.11](https://github.com/yuan-xy/Linux-0.11) - The old Linux kernel source ver 0.11 which has been tested under modern Linux,  Mac OSX and Windows.
