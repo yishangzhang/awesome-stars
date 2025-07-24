@@ -64,7 +64,7 @@
 - [Camio1945/linux-0.11-quickstart-debug-bochs2.7](https://github.com/Camio1945/linux-0.11-quickstart-debug-bochs2.7) - 用 Bochs 2.7 的 GUI 窗口调试 Linux 0.11 源码。（非原创）
 - [mirror/busybox](https://github.com/mirror/busybox) - BusyBox mirror
 - [IvanMtze/LinuxContainer](https://github.com/IvanMtze/LinuxContainer) - Linux Container in 500 lines
-- [baidu/dperf](https://github.com/baidu/dperf) - dperf is a 100Gbps network load tester.
+- [baidu/dperf](https://github.com/baidu/dperf) - dperf: High-Performance Network Load Testing Tool Based on DPDK
 - [jiazhang0/efi-tpm2-utils](https://github.com/jiazhang0/efi-tpm2-utils) - TPM 2.0 tools running in EFI environment
 - [yuan-xy/Linux-0.11](https://github.com/yuan-xy/Linux-0.11) - The old Linux kernel source ver 0.11 which has been tested under modern Linux,  Mac OSX and Windows.
 - [Wangzhike/HIT-Linux-0.11](https://github.com/Wangzhike/HIT-Linux-0.11) - 网易云课堂选的操作系统课实验的代码及相关记录
