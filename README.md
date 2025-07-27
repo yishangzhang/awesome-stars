@@ -166,6 +166,7 @@
 
 ## HTML 
 
+- [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises) - 
 - [WTFAcademy/WTF-CSS](https://github.com/WTFAcademy/WTF-CSS) - WTF CSS教程，帮助新人快速入门CSS，并写出Uniswap和NFT铸造的静态页面。
 - [manateelazycat/manateelazycat.github.io](https://github.com/manateelazycat/manateelazycat.github.io) - My personal blog
 - [jama1017/OKAI](https://github.com/jama1017/OKAI) - OKAI - An Interactive Introduction to Artificial Intelligence (AI)
