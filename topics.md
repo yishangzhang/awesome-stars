@@ -182,7 +182,7 @@
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
-- [refly-ai/refly](https://github.com/refly-ai/refly) - The world's first open-source "Vibe Workflow" platform for complex tasks.
+- [refly-ai/refly](https://github.com/refly-ai/refly) - The world’s first open-source agentic workspace for Human-AI collaboration.
 - [techa03/goodsKill](https://github.com/techa03/goodsKill) - 🐍基于SpringCloud 2023.x + Dubbo 3.x + AI构建的模拟秒杀微服务项目，集成了Elasticsearch🔍、Gateway、Mybatis-Plus、Sharding-JDBC等常用开源组件
 - [d2learn/xlings](https://github.com/d2learn/xlings) - 一个高度抽象的包管理器 - "多版本管理 + 万物皆可成包"
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -494,7 +494,7 @@
 
 ## documentation 
 
-- [refly-ai/refly](https://github.com/refly-ai/refly) - The world's first open-source "Vibe Workflow" platform for complex tasks.
+- [refly-ai/refly](https://github.com/refly-ai/refly) - The world’s first open-source agentic workspace for Human-AI collaboration.
 - [linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn](https://github.com/linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn) - Linux 内核实验（Linux kernel labs）中文翻译
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
