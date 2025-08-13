@@ -178,7 +178,6 @@
 
 - [oldjs/web-code-agent](https://github.com/oldjs/web-code-agent) - Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.
 - [jama1017/OKAI](https://github.com/jama1017/OKAI) - OKAI - An Interactive Introduction to Artificial Intelligence (AI)
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
@@ -918,6 +917,7 @@
 
 ## others 
 
+- [pyeprog/complete-guide-to-all-programming-paradigms-cn](https://github.com/pyeprog/complete-guide-to-all-programming-paradigms-cn) - 
 - [shareAI-lab/share-best-prompt](https://github.com/shareAI-lab/share-best-prompt) - 世界上最好的提示词 （总计估值超过300亿的提示词）外国网友x1xh成功获取了 v0、Manus、Cursor、Same.dev 和 Lovable 的完整官方系统提示词和内部工具。
 - [shareAI-lab/analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
 - [WTFAcademy/WTF-CSS](https://github.com/WTFAcademy/WTF-CSS) - WTF CSS教程，帮助新人快速入门CSS，并写出Uniswap和NFT铸造的静态页面。
