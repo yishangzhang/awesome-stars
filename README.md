@@ -292,6 +292,7 @@
 
 ## Others 
 
+- [pyeprog/complete-guide-to-all-programming-paradigms-cn](https://github.com/pyeprog/complete-guide-to-all-programming-paradigms-cn) - 
 - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI] 具身智能技术指南 Embodied-AI-Guide
 - [rusty-ferris-club/jonhoo-rust-trivia](https://github.com/rusty-ferris-club/jonhoo-rust-trivia) - Rust Trivia by Jon Gjengset
