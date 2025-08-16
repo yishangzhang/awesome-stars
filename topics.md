@@ -172,7 +172,6 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -1420,10 +1419,6 @@
 ## xml 
 
 - [timerring/bilive](https://github.com/timerring/bilive) - 极快的B站直播录制、自动切片、自动渲染弹幕以及字幕并投稿至B站，综合多种模态模型，兼容超低配置机器。Extremely fast live recording, automatic slicing, rendering, uploading and Integrating MLLMs. Compatible with low configurations machines.
-
-## zsh 
-
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
 
 ## License
