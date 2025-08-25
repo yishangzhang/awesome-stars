@@ -251,6 +251,7 @@
 
 ## Jupyter Notebook 
 
+- [boyu-ai/Hands-on-RL](https://github.com/boyu-ai/Hands-on-RL) - https://hrl.boyuai.com/
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
 - [xiaoniaoyouhuajiang/ClassNotebook](https://github.com/xiaoniaoyouhuajiang/ClassNotebook) - which are textual materials referenced in the bilibili videos
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
@@ -429,7 +430,6 @@
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only
 - [cuppar/rtd](https://github.com/cuppar/rtd) - Learn Rust by 500 lines code
-- [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
 - [stijnh/rust-calculator](https://github.com/stijnh/rust-calculator) - Command-line based calculator written in Rust
@@ -490,6 +490,7 @@
 - [joethei/obsidian-plantuml](https://github.com/joethei/obsidian-plantuml) - Generate PlantUML Diagrams inside Obsidian.md
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
 - [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
+- [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [jherr/depth-of-field](https://github.com/jherr/depth-of-field) - Depth of field simulator
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
