@@ -297,6 +297,7 @@
 
 ## Others 
 
+- [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - ReLE中文大模型能力评测（持续更新）：目前已囊括291个大模型，覆盖chatgpt、gpt-5、o4-mini、谷歌gemini-2.5、Claude4、智谱GLM-Z1、文心一言、qwen-max、百川、讯飞星火、商汤senseChat、minimax等商用模型， 以及kimi-k2、ernie4.5、minimax-M1、DeepSeek-R1-0528、deepseek-v3.1、qwen
 - [linhandev/dataset](https://github.com/linhandev/dataset) - 医学影像数据集列表 『An Index for Medical Imaging Datasets』
 - [ZHO-ZHO-ZHO/ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation) - 我的 nano-banana 创意玩法大合集！  持续更新中！
 - [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
