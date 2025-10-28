@@ -642,6 +642,7 @@
 
 ## hacktoberfest 
 
+- [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
 - [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises) - 
 - [iluwatar/30-seconds-of-java](https://github.com/iluwatar/30-seconds-of-java) - Collection of reusable tested Java 21 compatible code snippets that you can understand in 30 seconds or less.
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
