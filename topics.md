@@ -192,7 +192,7 @@
 - [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 - [refly-ai/refly](https://github.com/refly-ai/refly) - The Open-Source Agentic Workspace for Human-AI Collaboration.
 - [techa03/goodsKill](https://github.com/techa03/goodsKill) - 🐍基于SpringCloud 2023.x + Dubbo 3.x + AI构建的模拟秒杀微服务项目，集成了Elasticsearch🔍、Gateway、Mybatis-Plus、Sharding-JDBC等常用开源组件
-- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个高度抽象的包管理器 - "多版本管理 + 万物皆可成包"
+- [d2learn/xlings](https://github.com/d2learn/xlings) - Highly abstract [ package manager ] - "Multi-version management + Everything can be a package"
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [StevenJokess/2bPM](https://github.com/StevenJokess/2bPM) - 学习如何成为AI产品经理并体系化总结生成书https://stevenjokess.github.io/2bPM/
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -340,6 +340,7 @@
 
 ## chatbot 
 
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) - 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work
 
 ## chatgpt 
@@ -412,7 +413,7 @@
 ## cpp 
 
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
-- [Sunrisepeak/mcpp-standard](https://github.com/Sunrisepeak/mcpp-standard) - Dive to | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"
+- [Sunrisepeak/mcpp-standard](https://github.com/Sunrisepeak/mcpp-standard) - D2X | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"
 - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
@@ -942,7 +943,7 @@
 ## open-source 
 
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
-- [Sunrisepeak/mcpp-standard](https://github.com/Sunrisepeak/mcpp-standard) - Dive to | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"
+- [Sunrisepeak/mcpp-standard](https://github.com/Sunrisepeak/mcpp-standard) - D2X | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
@@ -1150,7 +1151,7 @@
 
 ## package-manager 
 
-- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个高度抽象的包管理器 - "多版本管理 + 万物皆可成包"
+- [d2learn/xlings](https://github.com/d2learn/xlings) - Highly abstract [ package manager ] - "Multi-version management + Everything can be a package"
 
 ## postgresql 
 
@@ -1176,7 +1177,7 @@
 
 ## project-management 
 
-- [d2learn/xlings](https://github.com/d2learn/xlings) - 一个高度抽象的包管理器 - "多版本管理 + 万物皆可成包"
+- [d2learn/xlings](https://github.com/d2learn/xlings) - Highly abstract [ package manager ] - "Multi-version management + Everything can be a package"
 
 ## pwa 
 
