@@ -976,6 +976,7 @@
 
 ## others 
 
+- [jazz-it/dline](https://github.com/jazz-it/dline) - A sleek and simple calendar for terminal enthusiasts.
 - [666ghj/DeepSearchAgent-Demo](https://github.com/666ghj/DeepSearchAgent-Demo) - 从0实现一个简洁清晰的Deep Search Agent
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
