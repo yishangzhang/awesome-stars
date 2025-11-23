@@ -276,7 +276,7 @@
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
-- [prodramp/DeepWorks](https://github.com/prodramp/DeepWorks) - A collection of Deep Learning projects  and resources
+- [avkash/DeepWorks](https://github.com/avkash/DeepWorks) - A collection of Deep Learning projects  and resources
 
 ## Lua 
 
