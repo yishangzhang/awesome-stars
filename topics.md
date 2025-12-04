@@ -192,8 +192,10 @@
 
 ## agent 
 
+- [luochang212/dive-into-langgraph](https://github.com/luochang212/dive-into-langgraph) - LangGraph 1.0 Tutorial
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [XiaomingX/indie-hacker-tools-plus](https://github.com/XiaomingX/indie-hacker-tools-plus) - 为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A curated collection of tech stacks and tools tailored for independent developers is here! these are proven, popular tools wid
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committe
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
 - [refly-ai/refly](https://github.com/refly-ai/refly) - The Open-Source Agentic Workspace for Human-AI Collaboration.
@@ -372,7 +374,7 @@
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [HiganFish/Notes-HighPerformanceLinuxServerProgramming](https://github.com/HiganFish/Notes-HighPerformanceLinuxServerProgramming) - Linux高性能服务器编程(作者 游双) 读书笔记和Demo
 - [tarun27sh/gdb_graphs](https://github.com/tarun27sh/gdb_graphs) - To visualize function call flow for a C/C++ program using gdb and python
-- [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++高频面试题
+- [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++ interview notes
 
 ## c-plus-plus 
 
@@ -485,7 +487,7 @@
 - [tarun27sh/gdb_graphs](https://github.com/tarun27sh/gdb_graphs) - To visualize function call flow for a C/C++ program using gdb and python
 - [jobbole/awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) - C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
-- [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++高频面试题
+- [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++ interview notes
 - [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus) - 课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB
 
 ## cryptocurrency 
@@ -852,13 +854,14 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 - [hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) - Linux 内核揭秘
-- [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++高频面试题
+- [SYaoJun/CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++ interview notes
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 
 ## llm 
 
 - [XiaomingX/indie-hacker-tools-plus](https://github.com/XiaomingX/indie-hacker-tools-plus) - 为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A curated collection of tech stacks and tools tailored for independent developers is here! these are proven, popular tools wid
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committe
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
@@ -1052,7 +1055,6 @@
 
 ## others 
 
-- [luochang212/dive-into-langgraph](https://github.com/luochang212/dive-into-langgraph) - LangGraph 1.0 Tutorial
 - [nas5w/interview-guide](https://github.com/nas5w/interview-guide) - An opinionated, actionable guide for software engineering interviews.
 - [sarwarbeing-ai/Agentic_Design_Patterns](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns) - Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems by Antonio Gulli
 - [GeostatsGuy/MachineLearningDemos](https://github.com/GeostatsGuy/MachineLearningDemos) - well-documented demonstration Python Jupyter workflows for many common machine learning workflows
