@@ -248,6 +248,7 @@
 
 ## algorithms 
 
+- [dexter-xD/project-box](https://github.com/dexter-xD/project-box) - C projects: algorithms, games, and networking
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -369,6 +370,7 @@
 
 ## c 
 
+- [dexter-xD/project-box](https://github.com/dexter-xD/project-box) - C projects: algorithms, games, and networking
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [rprata/linux-device-driver-tutorial](https://github.com/rprata/linux-device-driver-tutorial) - This tutorial discusses technical issues to develop your own linux device driver. The aim of this tutorial is to provide, easy and practical examples so that everybody can understand the concepts in a
