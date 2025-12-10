@@ -1372,6 +1372,7 @@
 
 ## rust 
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [InkSha/rust-tutorial](https://github.com/InkSha/rust-tutorial) - 一个针对新手的 Rust 快速教程，从零开始写一个管理 Todos 的命令行程序
 - [paolorechia/steeldb](https://github.com/paolorechia/steeldb) - A simple database built from scratch in Rust
 - [regexident/cargo-modules](https://github.com/regexident/cargo-modules) - Visualize/analyze a Rust crate's internal structure
