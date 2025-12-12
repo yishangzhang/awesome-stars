@@ -232,6 +232,7 @@
 
 ## JavaScript 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities｜专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
@@ -308,6 +309,7 @@
 
 ## Others 
 
+- [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) - Gemini CLI Tips and Tricks
 - [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括318个大模型，覆盖chatgpt、gpt-5.1、o4-mini、谷歌gemini-3-pro、Claude-4.5、文心ERNIE-X1.1、ERNIE-5.0-Thinking、qwen3-max、百川、讯飞星火、商汤senseChat等商用模型， 以及kimi-k2、ernie4.5、minimax-M2、deepseek-v3.
 - [linhandev/dataset](https://github.com/linhandev/dataset) - 医学影像数据集列表 『An Index for Medical Imaging Datasets』
 - [ZHO-ZHO-ZHO/ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation) - 我的 nano-banana 创意玩法大合集！  持续更新中！
@@ -514,7 +516,7 @@
 ## TypeScript 
 
 - [YouMind-OpenLab/awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) - ♊ 50+ selected Gemini prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
-- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
+- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [oldjs/web-code-agent](https://github.com/oldjs/web-code-agent) - Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.
@@ -544,7 +546,7 @@
 - [terobox/ChatGPT-API-Faucet](https://github.com/terobox/ChatGPT-API-Faucet) - AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
-- [csfive/HUST-CPU](https://github.com/csfive/HUST-CPU) - 🚧 华中科技大学计算机硬件系统设计（自己动手画 CPU）相关资料和 Logisim 实现
+- [csfive/HUST-CPU](https://github.com/csfive/HUST-CPU) - 🚧 💻 华中科技大学计算机硬件系统设计（自己动手画 CPU）相关资料和 Logisim 实现
 
 ## Typst 
 
