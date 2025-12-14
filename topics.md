@@ -208,6 +208,7 @@
 
 ## ai 
 
+- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - 我的开发经验+vibe-coding 的中文翻译版本—+提示词库=vibecoding工作站
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [YouMind-OpenLab/awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) - ♊ 50+ selected Gemini prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 6 lines of code
@@ -237,6 +238,7 @@
 
 ## ai-agents 
 
+- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - 我的开发经验+vibe-coding 的中文翻译版本—+提示词库=vibecoding工作站
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 6 lines of code
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
@@ -1070,6 +1072,7 @@
 
 ## others 
 
+- [npubird/KnowledgeGraphCourse](https://github.com/npubird/KnowledgeGraphCourse) - 东南大学《知识图谱》研究生课程
 - [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) - Gemini CLI Tips and Tricks
 - [nas5w/interview-guide](https://github.com/nas5w/interview-guide) - An opinionated, actionable guide for software engineering interviews.
 - [sarwarbeing-ai/Agentic_Design_Patterns](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns) - Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems by Antonio Gulli
