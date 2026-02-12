@@ -183,6 +183,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [unity](#unity)
+- [v2ray](#v2ray)
 - [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
@@ -222,7 +223,7 @@
 
 - [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized) - 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
 - [tingaicompass/AI-Compass](https://github.com/tingaicompass/AI-Compass) - “AI-Compass”将为社区指引在 AI 技术海洋中航行的方向，无论你是初学者还是进阶开发者，都能在这里找到通往 AI 各大方向的路径。旨在帮助开发者系统性地了解 AI 的核心概念、主流技术、前沿趋势，并通过实践掌握从理论到落地的全过程。
-- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - 我的开发经验+提示词库=vibecoding工作站；My development experience + prompt dictionary = Vibecoding workstation；ניסיון הפיתוח שלי + מילון פרומפטים = תחנת עבודה Vibecoding；私の開発経験 + プロンプト辞書 = Vibecoding ワークステーション；나의 개
+- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - Vibe Coding 指南 - 涵盖 Prompt 提示词、Skill 技能库、Workflow 工作流的 AI 编程工作站
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [YouMind-OpenLab/awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) - ♊ 50+ selected Gemini prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
@@ -253,7 +254,7 @@
 ## ai-agents 
 
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: AI-Powered Personalized Learning Assistant"
-- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - 我的开发经验+提示词库=vibecoding工作站；My development experience + prompt dictionary = Vibecoding workstation；ניסיון הפיתוח שלי + מילון פרומפטים = תחנת עבודה Vibecoding；私の開発経験 + プロンプト辞書 = Vibecoding ワークステーション；나의 개
+- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - Vibe Coding 指南 - 涵盖 Prompt 提示词、Skill 技能库、Workflow 工作流的 AI 编程工作站
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
@@ -1349,6 +1350,7 @@
 
 ## prompt-engineering 
 
+- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - Vibe Coding 指南 - 涵盖 Prompt 提示词、Skill 技能库、Workflow 工作流的 AI 编程工作站
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 8000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 
@@ -1650,6 +1652,10 @@
 ## unity 
 
 - [Unity-Technologies/megacity-metro](https://github.com/Unity-Technologies/megacity-metro) - Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, d
+
+## v2ray 
+
+- [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
 
 ## video 
 
