@@ -157,7 +157,7 @@
 
 ## Go 
 
-- [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous GPU Sharing on Kubernetes - https://project-hami.io
+- [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous GPU Sharing on Kubernetes
 - [ABCDELabs/Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
@@ -194,7 +194,7 @@
 
 ## Handlebars 
 
-- [beatai-org/beatai](https://github.com/beatai-org/beatai) - 专属于软件开发工程师的 AI 入门圣经。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [beatai-org/beatai](https://github.com/beatai-org/beatai) - 专属于软件开发工程师的 AI 宝典。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 
 ## Haskell 
 
@@ -204,7 +204,7 @@
 
 - [huanzi-qch/springBoot](https://github.com/huanzi-qch/springBoot) - SpringBoot系列Demo代码，每个子项目都是SpringBoot的一个知识点或者说技能点且都有对应的博客介绍，代码开箱即用适合新手学习或老司机复习
 - [vector4wang/spring-boot-quick](https://github.com/vector4wang/spring-boot-quick) - :herb: 基于springboot的快速学习示例,整合自己遇到的开源框架,如：rabbitmq(延迟队列)、Kafka、jpa、redies、oauth2、swagger、jsp、docker、k3s、k3d、k8s、mybatis加解密插件、异常处理、日志输出、多模块开发、多环境打包、缓存cache、爬虫、jwt、GraphQL、dubbo、zookeeper和Async等等:pushpin
-- [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Efficiently control your mouse with keyboard inputs for a completely mouseless experience.
+- [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Mouseless mouse control and advanced keyboard customization.
 - [iluwatar/30-seconds-of-java](https://github.com/iluwatar/30-seconds-of-java) - Collection of reusable tested Java 21 compatible code snippets that you can understand in 30 seconds or less.
 - [ttulka/ddd-example-ecommerce](https://github.com/ttulka/ddd-example-ecommerce) - Domain-driven design example in Java with Spring framework
 - [jushahulian/java-go-python](https://github.com/jushahulian/java-go-python) - 包含海量课程各类it学习视频教程，最新版，持续更新，java视频教程，python视频教程，go视频教程,C,C++,C#视频教程,前端，数据库，大数据，人工智能视频教程，AIGC视频教程，ChatGPT，软件测试视频教程，网络安全/逆向视频教程，鸿蒙应用开发，Android等学习课程分享。
@@ -535,7 +535,7 @@
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like agent harness, built from 0 to 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [oldjs/web-code-agent](https://github.com/oldjs/web-code-agent) - Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.
 - [Simon-He95/fast-jump](https://github.com/Simon-He95/fast-jump) - 提供了查看更深层次类型和跳过不需要的路径快速直达目标路径 ｜ Provides viewing deeper types and skipping unnecessary paths to quickly reach the target path
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
