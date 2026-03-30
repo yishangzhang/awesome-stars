@@ -301,6 +301,7 @@
 
 ## Others 
 
+- [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) - 🛠️ Awesome tools & guides for harness engineering.
 - [0xtresser/OpenClaw-Book](https://github.com/0xtresser/OpenClaw-Book) - 《深入 OpenClaw》。全网第一本介绍 OpenClaw 的书，用 OpenClaw + OpenCode + Opus 4.6 写成。A book introducing OpenClaw, written by OpenClaw + OpenCode + Opus 4.6
 - [weitianxin/Awesome-Agentic-Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning) - A curated list of papers and resources based on the survey "Agentic Reasoning for Large Language Models"
 - [anyofai/gemini-pro](https://github.com/anyofai/gemini-pro) - 2026年最新Gemini Pro国内使用教程：如何为Gemini Pro代充值？如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？我们也会为大家解答当提示此账号无法订阅Google AI方案时怎么办、如何快速获取Gemini学生教育优惠账号、如何下载Google Gemini客户端、Gemini无法使用了该怎么办等常见问题。
@@ -458,9 +459,9 @@
 
 ## Rust 
 
+- [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
@@ -531,6 +532,7 @@
 
 ## TypeScript 
 
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [cpp-for-yourself/lectures-and-homeworks](https://github.com/cpp-for-yourself/lectures-and-homeworks) - 📚 A place for all lecture scripts, projects etc. for the "C++ for yourself" course
