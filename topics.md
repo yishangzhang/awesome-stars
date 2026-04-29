@@ -293,7 +293,7 @@
 ## algorithms 
 
 - [no-magic-ai/no-magic](https://github.com/no-magic-ai/no-magic) - Because `model.fit()` isn't an explanation
-- [dexter-xD/project-box](https://github.com/dexter-xD/project-box) - C projects: algorithms, games, and networking
+- [TrisH0x2A/project-box](https://github.com/TrisH0x2A/project-box) - C projects: algorithms, games, and networking
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -423,7 +423,7 @@
 
 ## c 
 
-- [dexter-xD/project-box](https://github.com/dexter-xD/project-box) - C projects: algorithms, games, and networking
+- [TrisH0x2A/project-box](https://github.com/TrisH0x2A/project-box) - C projects: algorithms, games, and networking
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [rprata/linux-device-driver-tutorial](https://github.com/rprata/linux-device-driver-tutorial) - This tutorial discusses technical issues to develop your own linux device driver. The aim of this tutorial is to provide, easy and practical examples so that everybody can understand the concepts in a
@@ -1212,6 +1212,7 @@
 
 ## others 
 
+- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [TsingJyujing/blogs](https://github.com/TsingJyujing/blogs) - My Gitbook blogs
 - [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
