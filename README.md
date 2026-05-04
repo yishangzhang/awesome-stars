@@ -412,7 +412,7 @@
 - [liuyudiy/SAT](https://github.com/liuyudiy/SAT) - 
 - [tingaicompass/AI-Compass](https://github.com/tingaicompass/AI-Compass) - “AI-Compass”将为社区指引在 AI 技术海洋中航行的方向，无论你是初学者还是进阶开发者，都能在这里找到通往 AI 各大方向的路径。旨在帮助开发者系统性地了解 AI 的核心概念、主流技术、前沿趋势，并通过实践掌握从理论到落地的全过程。
 - [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - 中文 Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、Cursor、Claude Code、Codex、Gemini CLI 实战指南
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) - The memory for your AI Agents in 6 lines of code
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - The brain that gives your AI Agents memory in 6 lines of code
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
@@ -471,7 +471,7 @@
 - [pmatos/jsse](https://github.com/pmatos/jsse) - An agent-coded JS engine in Rust. I didn't touch a single line of code here. Not one. This repo is a write-only data store. I didn't even create this repo by hand -- my agent did that.
 - [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
