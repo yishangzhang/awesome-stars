@@ -284,7 +284,7 @@
 
 ## ai-agents 
 
-- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer.
+- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
 - [wukangxin/ai-agent-learning](https://github.com/wukangxin/ai-agent-learning) - 使用 OpenAI Java SDK 从零构建 AI Agent — 14 节渐进式课程，从基础聊天循环到多 Agent 协作
@@ -489,7 +489,7 @@
 
 ## claude-code 
 
-- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer.
+- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
@@ -666,7 +666,7 @@
 
 ## developer-tools 
 
-- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer.
+- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [wquguru/harness-books](https://github.com/wquguru/harness-books) - 📚 Two books on harness engineering — the design philosophies behind Claude Code & Codex: constraints, query loops, context governance, multi-agent verification. harness-books.agentway.dev
 - [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.
@@ -1020,7 +1020,7 @@
 
 ## llm 
 
-- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer.
+- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) - 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -1630,6 +1630,7 @@
 
 ## rust 
 
+- [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy) - Open-source MITM proxy to intercept, inspect, and mock network traffic.
 - [unhappychoice/gittype](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm) - AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscription.
