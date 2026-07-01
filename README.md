@@ -227,7 +227,6 @@
 - [fengwenyi/mybatis-plus-code-generator](https://github.com/fengwenyi/mybatis-plus-code-generator) - MyBatis-Plus代码生成器
 - [algorithmzuo/algorithm-journey](https://github.com/algorithmzuo/algorithm-journey) - 左程云的算法和数据结构通关课
 - [LiLittleCat/tools-in-ruanyf-weekly](https://github.com/LiLittleCat/tools-in-ruanyf-weekly) - 阮一峰老师科技爱好者周刊「工具」和「资源」汇总。A collection of tools and resources featured in Ruanyifeng's weekly technology enthusiast newsletter.
-- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [XUranus/lightsocks-java](https://github.com/XUranus/lightsocks-java) - lite sock5 protocal based network proxy tool
@@ -256,6 +255,7 @@
 - [ygs-code/vue](https://github.com/ygs-code/vue) - vue源码逐行注释分析+40多m的vue源码程序流程图思维导图(vue source code line by line annotation analysis +40 + m vue source code process flow chart mind map)
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [apachecn/uiuc-cs241-notes-zh](https://github.com/apachecn/uiuc-cs241-notes-zh) - :book: 【译】UIUC CS241 系统编程中文讲义
 - [genesislab-io/beatai](https://github.com/genesislab-io/beatai) - 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !
 - [SPK80/ChromeTools](https://github.com/SPK80/ChromeTools) - Google Chrome Extention Template
@@ -348,7 +348,6 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version 
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
