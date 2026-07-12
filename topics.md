@@ -256,6 +256,7 @@
 
 ## ai 
 
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
