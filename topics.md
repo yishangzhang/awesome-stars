@@ -1316,6 +1316,7 @@
 
 ## others 
 
+- [huangyf2013320506/bilibili_repository](https://github.com/huangyf2013320506/bilibili_repository) - 放b站视频的一些文档和代码 @堂吉诃德拉曼查的英豪
 - [stephencwelch/ai_book](https://github.com/stephencwelch/ai_book) - Supporting code for Welch Labs AI Book
 - [apache/servicecomb-java-chassis](https://github.com/apache/servicecomb-java-chassis) - ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management 
 - [V-IOLE-T/tab-harbor](https://github.com/V-IOLE-T/tab-harbor) - 一个更安静的新标签页工作台，把打开中的标签、快捷链接、待读和轻量待办收进同一个顺手的空间里。
