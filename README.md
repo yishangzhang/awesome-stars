@@ -311,6 +311,7 @@
 
 ## Others 
 
+- [huangyf2013320506/bilibili_repository](https://github.com/huangyf2013320506/bilibili_repository) - 放b站视频的一些文档和代码 @堂吉诃德拉曼查的英豪
 - [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) - 🛠️ Awesome tools & guides for harness engineering.
 - [0xtresser/OpenClaw-Book](https://github.com/0xtresser/OpenClaw-Book) - 《深入 OpenClaw》。全网第一本介绍 OpenClaw 的书，用 OpenClaw + OpenCode + Opus 4.6 写成。A book introducing OpenClaw, written by OpenClaw + OpenCode + Opus 4.6
 - [weitianxin/Awesome-Agentic-Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning) - A curated list of papers and resources based on the survey "Agentic Reasoning for Large Language Models"
