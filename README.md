@@ -234,6 +234,7 @@
 - [nageoffer/12306](https://github.com/nageoffer/12306) - 🔥 官方推荐 🔥 大学春招、秋招、应届项目，SpringBoot3 + Java17 + SpringCloud Alibaba + Vue3 等技术架构，完成高仿铁路 12306 用户 + 抢票 + 订单 + 支付服务，帮助学生主打就业的项目。
 - [feiyuchuixue/sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent) - Backend scaffold for Sz-Admin, built with Spring Boot 4, featuring RBAC, dynamic menus, code generation, data scope permissions, Excel import/export, OSS integration, and WebSocket support.
 - [xftxyz2001/atguigu-ssm](https://github.com/xftxyz2001/atguigu-ssm) - 尚硅谷新版SSM框架全套视频教程，Spring6+SpringBoot3最新SSM企业级开发相关
+- [xftxyz2001/atguigu-javaweb](https://github.com/xftxyz2001/atguigu-javaweb) - 尚硅谷全新JavaWeb教程，企业主流javaweb技术栈相关
 - [fengwenyi/mybatis-plus-code-generator](https://github.com/fengwenyi/mybatis-plus-code-generator) - MyBatis-Plus代码生成器
 - [algorithmzuo/algorithm-journey](https://github.com/algorithmzuo/algorithm-journey) - 左程云的算法和数据结构通关课
 - [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
@@ -349,7 +350,6 @@
 - [nilbuild/design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [hijkzzz/Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.
-- [xftxyz2001/atguigu-javaweb](https://github.com/xftxyz2001/atguigu-javaweb) - 尚硅谷全新JavaWeb教程，企业主流javaweb技术栈相关
 - [vectorxxxx/NOTE_JVM](https://github.com/vectorxxxx/NOTE_JVM) - 尚硅谷JVM全套教程，百万播放，全网巅峰（宋红康详解java虚拟机）学习笔记
 - [gs00s/awesome-vue-3](https://github.com/gs00s/awesome-vue-3) - A curated list of awesome things related to Vue 3
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
