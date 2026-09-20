@@ -1101,6 +1101,7 @@
 
 ## llm 
 
+- [amitshekhariitbhu/llm-internals](https://github.com/amitshekhariitbhu/llm-internals) - Learn LLM internals step by step - from tokenization to attention to inference optimization.
 - [ruc-datalab/EvoOntology](https://github.com/ruc-datalab/EvoOntology) - EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&进化本体层
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) - 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
@@ -1372,6 +1373,8 @@
 
 ## others 
 
+- [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) - Technical guide to making money and investing（最全赚钱投资指南）
+- [ERRRC/kaogongzhentizhengliu](https://github.com/ERRRC/kaogongzhentizhengliu) - 2016–2026 国考/省考/联考真题按考点重组的深度标注笔记的判断推理和资料分析部分
 - [jweihe/RLHF-book-Chinese](https://github.com/jweihe/RLHF-book-Chinese) - RLHF中文手册 - 详细解析RLHF全流程优化阶段，涵盖指令调优、奖励模型训练，以及拒绝采样、强化学习和直接对齐算法等关键技术。
 - [caomaolufei/AIInfraGuide](https://github.com/caomaolufei/AIInfraGuide) - AI Infra 全栈从0入门学习资料：https://caomaolufei.github.io/AIInfraGuide/
 - [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider's Guide
