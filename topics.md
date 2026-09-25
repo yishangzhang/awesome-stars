@@ -1390,6 +1390,7 @@
 
 ## others 
 
+- [lukeTheNeuromancer/system-design-notes-zh](https://github.com/lukeTheNeuromancer/system-design-notes-zh) - System Design Interview 笔记中文翻译版（Chinese translation of liquidslr/system-design-notes）
 - [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
 - [lilinji/ai-infra-odyssey](https://github.com/lilinji/ai-infra-odyssey) - AI Infra 大话西游之水滴石穿 - 专栏全景硬核技术实战
 - [happy-momo/EASY-Knowledge-Graph-Builder](https://github.com/happy-momo/EASY-Knowledge-Graph-Builder) - KG AI Builder is a powerful AI-driven knowledge graph construction tool that automatically converts unstructured text (PDF, Word, Excel, TXT) into structured knowledge graphs. By combining the text un
