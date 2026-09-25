@@ -321,6 +321,7 @@
 
 ## Others 
 
+- [lukeTheNeuromancer/system-design-notes-zh](https://github.com/lukeTheNeuromancer/system-design-notes-zh) - System Design Interview 笔记中文翻译版（Chinese translation of liquidslr/system-design-notes）
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) - Technical guide to making money and investing（最全赚钱投资指南）
 - [ERRRC/kaogongzhentizhengliu](https://github.com/ERRRC/kaogongzhentizhengliu) - 2016–2026 国考/省考/联考真题按考点重组的深度标注笔记的判断推理和资料分析部分
