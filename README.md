@@ -321,6 +321,7 @@
 
 ## Others 
 
+- [ERRRC/xingcezhenti](https://github.com/ERRRC/xingcezhenti) - 2016-2026年中国公务员考试国考＋省考全部行测真题
 - [lukeTheNeuromancer/system-design-notes-zh](https://github.com/lukeTheNeuromancer/system-design-notes-zh) - System Design Interview 笔记中文翻译版（Chinese translation of liquidslr/system-design-notes）
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) - Technical guide to making money and investing（最全赚钱投资指南）
@@ -411,6 +412,7 @@
 
 ## Python 
 
+- [VectifyAI/OpenKB](https://github.com/VectifyAI/OpenKB) - OpenKB: Open LLM Knowledge Base
 - [lemonhu/stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) - 利用网络上公开的数据构建一个小型的证券知识图谱/知识库
 - [dmoshehun-prog/learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials) - Turn PDFs, books and papers into interactive learning webpages｜将复杂材料转化为可追溯、可测验、可做笔记的学习网页
 - [lilinji/ai-infra-odyssey](https://github.com/lilinji/ai-infra-odyssey) - AI Infra 大话西游之水滴石穿 - 专栏全景硬核技术实战
