@@ -222,6 +222,7 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [workflow](#workflow)
 - [xml](#xml)
 - [zsh](#zsh)
@@ -1441,6 +1442,8 @@
 
 ## others 
 
+- [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
+- [tugot17/pmpp](https://github.com/tugot17/pmpp) - Complete solutions to the Programming Massively Parallel Processors Edition 4
 - [OpenSPG/openspg](https://github.com/OpenSPG/openspg) - OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework.   Core Capabilities: 1) domain model constra
 - [ERRRC/xingcezhenti](https://github.com/ERRRC/xingcezhenti) - 2016-2026年中国公务员考试国考＋省考全部行测真题
 - [lukeTheNeuromancer/system-design-notes-zh](https://github.com/lukeTheNeuromancer/system-design-notes-zh) - System Design Interview 笔记中文翻译版（Chinese translation of liquidslr/system-design-notes）
@@ -2136,6 +2139,10 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## windows-11 
+
+- [Mq-b/Modern-Cpp-templates-tutorial](https://github.com/Mq-b/Modern-Cpp-templates-tutorial) - 现代C++模板教程
 
 ## workflow 
 
