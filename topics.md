@@ -544,7 +544,7 @@
 
 ## clash 
 
-- [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
+- [nelvko/clashctl](https://github.com/nelvko/clashctl) - 😼 优雅地使用基于 clash/mihomo 的代理环境
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
 
 ## claude 
@@ -1140,7 +1140,7 @@
 ## linux 
 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
-- [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
+- [nelvko/clashctl](https://github.com/nelvko/clashctl) - 😼 优雅地使用基于 clash/mihomo 的代理环境
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [ustclug/Linux201-docs](https://github.com/ustclug/Linux201-docs) - Linux 201 进阶教程阅读资料
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
