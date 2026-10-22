@@ -1634,7 +1634,7 @@
 - [mayfly227/LightSocks-cxx](https://github.com/mayfly227/LightSocks-cxx) - ⚡️一个轻巧的网络混淆代理🌏
 - [XUranus/lightsocks-java](https://github.com/XUranus/lightsocks-java) - lite sock5 protocal based network proxy tool
 - [baidu/dperf](https://github.com/baidu/dperf) - dperf: High-Performance Network Load Testing Tool Based on DPDK
-- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.
 - [jiazhang0/efi-tpm2-utils](https://github.com/jiazhang0/efi-tpm2-utils) - TPM 2.0 tools running in EFI environment
 - [yuan-xy/Linux-0.11](https://github.com/yuan-xy/Linux-0.11) - The old Linux kernel source ver 0.11 which has been tested under modern Linux,  Mac OSX and Windows.
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
