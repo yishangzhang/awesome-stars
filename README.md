@@ -205,6 +205,7 @@
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 - [wangzhe3224/quant-roadmap](https://github.com/wangzhe3224/quant-roadmap) - 进入矿工（Quant）世界的路线图
 - [zhwei820/learn.lianglianglee.com](https://github.com/zhwei820/learn.lianglianglee.com) - 
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF) - 【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -289,6 +290,7 @@
 - [xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [stephencwelch/ai_book](https://github.com/stephencwelch/ai_book) - Supporting code for Welch Labs AI Book
 - [HHousen/lecture2notes](https://github.com/HHousen/lecture2notes) - Convert lecture videos to notes using AI & machine learning. Code for the research titled "Lecture2Notes: Summarizing Lecture Videos by Classifying Slides and Analyzing Text using Machine Learning."
+- [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) - 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems.
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
 - [luochang212/dive-into-langgraph](https://github.com/luochang212/dive-into-langgraph) - LangGraph 1.0 Tutorial
 - [GeostatsGuy/MachineLearningDemos](https://github.com/GeostatsGuy/MachineLearningDemos) - well-documented demonstration Python Jupyter workflows for many common machine learning workflows
@@ -401,7 +403,6 @@
 - [balloonwj/CppGuide](https://github.com/balloonwj/CppGuide) - C/C++学习，后端开发进阶指南。
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 - [ESwordCn/Cpper_0ffers](https://github.com/ESwordCn/Cpper_0ffers) - C++选手提前批/秋招可投岗位
-- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [jobbole/awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) - C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [SYaoJun/cpp_Interview](https://github.com/SYaoJun/cpp_Interview) - C/C++ study notes
@@ -439,7 +440,6 @@
 - [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn AI Engineering! Learn it. Build it. Ship it for others.
 - [jingyaogong/minimind-o](https://github.com/jingyaogong/minimind-o) - 🎙️ A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!
-- [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) - 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems.
 - [TsingJyujing/blogs](https://github.com/TsingJyujing/blogs) - My Gitbook blogs
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
