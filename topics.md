@@ -947,7 +947,7 @@
 
 ## go 
 
-- [3z9w/3z9wopt](https://github.com/3z9w/3z9wopt) - 一款能清垃圾、优化系统、查硬件、管理启动项、查磁盘空间占用、分析蓝屏——等10个模块，外加 34 个系统原生小工具的小巧好用的软件。
+- [3z9w/3z9wopt](https://github.com/3z9w/3z9wopt) - 一款能清垃圾、优化系统、查硬件、管理启动项、查磁盘空间占用、分析蓝屏——等10个模块，外加 34 个系统原生小工具的小巧好用的软件。 Portable Windows 10/11 cleaner & optimizer in Go — 93 cleanup targets, 154 tweaks, 15 MB single EXE.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [ABCDELabs/Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
@@ -960,7 +960,7 @@
 
 ## golang 
 
-- [3z9w/3z9wopt](https://github.com/3z9w/3z9wopt) - 一款能清垃圾、优化系统、查硬件、管理启动项、查磁盘空间占用、分析蓝屏——等10个模块，外加 34 个系统原生小工具的小巧好用的软件。
+- [3z9w/3z9wopt](https://github.com/3z9w/3z9wopt) - 一款能清垃圾、优化系统、查硬件、管理启动项、查磁盘空间占用、分析蓝屏——等10个模块，外加 34 个系统原生小工具的小巧好用的软件。 Portable Windows 10/11 cleaner & optimizer in Go — 93 cleanup targets, 154 tweaks, 15 MB single EXE.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
@@ -2157,7 +2157,7 @@
 
 ## windows 
 
-- [3z9w/3z9wopt](https://github.com/3z9w/3z9wopt) - 一款能清垃圾、优化系统、查硬件、管理启动项、查磁盘空间占用、分析蓝屏——等10个模块，外加 34 个系统原生小工具的小巧好用的软件。
+- [3z9w/3z9wopt](https://github.com/3z9w/3z9wopt) - 一款能清垃圾、优化系统、查硬件、管理启动项、查磁盘空间占用、分析蓝屏——等10个模块，外加 34 个系统原生小工具的小巧好用的软件。 Portable Windows 10/11 cleaner & optimizer in Go — 93 cleanup targets, 154 tweaks, 15 MB single EXE.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
@@ -2173,7 +2173,7 @@
 
 ## windows-11 
 
-- [3z9w/3z9wopt](https://github.com/3z9w/3z9wopt) - 一款能清垃圾、优化系统、查硬件、管理启动项、查磁盘空间占用、分析蓝屏——等10个模块，外加 34 个系统原生小工具的小巧好用的软件。
+- [3z9w/3z9wopt](https://github.com/3z9w/3z9wopt) - 一款能清垃圾、优化系统、查硬件、管理启动项、查磁盘空间占用、分析蓝屏——等10个模块，外加 34 个系统原生小工具的小巧好用的软件。 Portable Windows 10/11 cleaner & optimizer in Go — 93 cleanup targets, 154 tweaks, 15 MB single EXE.
 - [Mq-b/Modern-Cpp-templates-tutorial](https://github.com/Mq-b/Modern-Cpp-templates-tutorial) - 现代C++模板教程
 
 ## workflow 
