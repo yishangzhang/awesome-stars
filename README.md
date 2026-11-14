@@ -163,7 +163,7 @@
 
 ## Go 
 
-- [3z9w/3z9wopt](https://github.com/3z9w/3z9wopt) - 一款能清垃圾、优化系统、查硬件、管理启动项、查磁盘空间占用、分析蓝屏——等10个模块，外加 34 个系统原生小工具的小巧好用的软件。 Portable Windows 10/11 cleaner & optimizer in Go — 93 cleanup targets, 154 tweaks, 15 MB single EXE.
+- [3z9w/3z9wopt](https://github.com/3z9w/3z9wopt) - 一款能清垃圾、优化系统、查硬件、管理启动项、查磁盘空间占用、分析蓝屏——等10个模块，外加 32 个系统原生小工具的小巧好用的软件。 Portable Windows 10/11 cleaner & optimizer in Go — 93 cleanup targets, 156 tweaks, 15 MB single EXE.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google's open agentic orchestration runtime
 - [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous GPU Sharing on Kubernetes
