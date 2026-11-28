@@ -880,6 +880,7 @@
 
 ## education 
 
+- [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork) - 交互式电子电路学堂：用可以动手拨弄的仿真学电路
 - [dmoshehun-prog/learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials) - Turn PDFs, books and papers into interactive learning webpages｜将复杂材料转化为可追溯、可测验、可做笔记的学习网页
 - [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是最专业的英语精听 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动你把每一段音频练懂、练熟、练到会说。
 - [HHousen/lecture2notes](https://github.com/HHousen/lecture2notes) - Convert lecture videos to notes using AI & machine learning. Code for the research titled "Lecture2Notes: Summarizing Lecture Videos by Classifying Slides and Analyzing Text using Machine Learning."
@@ -1179,6 +1180,7 @@
 
 ## learning 
 
+- [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork) - 交互式电子电路学堂：用可以动手拨弄的仿真学电路
 - [dmoshehun-prog/learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials) - Turn PDFs, books and papers into interactive learning webpages｜将复杂材料转化为可追溯、可测验、可做笔记的学习网页
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
@@ -1863,6 +1865,7 @@
 
 ## react 
 
+- [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork) - 交互式电子电路学堂：用可以动手拨弄的仿真学电路
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
 - [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Co
